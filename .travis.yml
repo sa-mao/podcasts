@@ -1,0 +1,11 @@
+services:
+  - docker
+
+jobs:
+  include:
+    - stage: lint & dev build 
+      script:
+      - docker build --target builder .
+    - stage: unit tests
+      - docker build --target tester .
+    - stage: prod build

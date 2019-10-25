@@ -9,3 +9,4 @@ jobs:
     - stage: unit tests
       - docker build --target tester .
     - stage: prod build
+      - docker build --target prod . -t "podcast:$TRAVIS_TAG"

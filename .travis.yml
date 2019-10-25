@@ -1,12 +1,15 @@
+dist: trusty
 services:
-  - docker
+- docker
 
 jobs:
   include:
-    - stage: lint & dev build 
+    - stage: lint dev build 
       script:
       - docker build --target builder .
     - stage: unit tests
+      script:
       - docker build --target tester .
     - stage: prod build
+      script:
       - docker build --target prod . -t "podcast:$TRAVIS_TAG"

@@ -12,4 +12,4 @@ jobs:
       - docker build --target tester .
     - stage: prod build
       script:
-      - docker build --target prod . -t "podcast:$TRAVIS_TAG"
+      - docker build --target prod . -t "podcast:$TRAVIS_COMMIT"

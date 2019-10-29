@@ -1,14 +1,14 @@
 export default function makeListEpisodes ({ cache }) {
-  return async function listEpisodes ({ podCastId } = {}) {
-    if (!podCastId) {
-      throw new Error('Podcast Id is required.')
+  return async function listEpisodes ({ podcastId } = {}) {
+    if (!podcastId) {
+      throw new Error('podcast Id is required.')
     }
 
-    const podCast = await cache.findById({
-      podCastId
+    const podcast = await cache.findById({
+      podcastId
     })
 
-    return getEpisodes(podCast)
+    return getEpisodes(podcast)
 
     function getEpisodes (podcast) {
       if (podcast.item.length === 0) {

@@ -1,7 +1,7 @@
 import makeListEpisodes from './list-episodes'
 
 describe('list episodes', () => {
-  const fakePodcast = {
+  const fakepodcast = {
     id: 'bf4e5114-fe02-4088-9a07-c1b81a3c615a',
     item: [
       {
@@ -16,24 +16,24 @@ describe('list episodes', () => {
       }
     ]
   }
-  let podCastCache, listEpisodes
+  let podcastCache, listEpisodes
   beforeAll(() => {
-    podCastCache = {
-      findById: jest.fn(() => Promise.resolve(fakePodcast))
+    podcastCache = {
+      findById: jest.fn(() => Promise.resolve(fakepodcast))
     }
-    listEpisodes = makeListEpisodes({ cache: podCastCache })
+    listEpisodes = makeListEpisodes({ cache: podcastCache })
   })
   it('requires a podcast id', () => {
-    expect(listEpisodes()).rejects.toThrow('Podcast Id is required.')
+    expect(listEpisodes()).rejects.toThrow('podcast Id is required.')
   })
   it('returns all episodes', async () => {
-    const episodes = await listEpisodes({ podCastId: fakePodcast.id })
+    const episodes = await listEpisodes({ podcastId: fakepodcast.id })
 
     expect(episodes.length).toBe(2)
     for (let i = 0; i < episodes.length; i++) {
-      expect(episodes[i].checksum).toEqual(fakePodcast.item[i].checksum)
-      expect(episodes[i].title).toEqual(fakePodcast.item[i].title)
-      expect(episodes[i].url).toEqual(fakePodcast.item[i].link)
+      expect(episodes[i].checksum).toEqual(fakepodcast.item[i].checksum)
+      expect(episodes[i].title).toEqual(fakepodcast.item[i].title)
+      expect(episodes[i].url).toEqual(fakepodcast.item[i].link)
     }
   })
 })

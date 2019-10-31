@@ -1,3 +1,5 @@
+import { makeEpisodes } from '.'
+
 // eslint-disable-next-line no-empty-pattern
 export default function buildMakepodcast ({ uuid }) {
   // eslint-disable-next-line no-empty-pattern
@@ -26,12 +28,8 @@ export default function buildMakepodcast ({ uuid }) {
     if (title && typeof title !== 'string') {
       throw new Error(`title: '${title}' must be of type string.`)
     }
-    /*
-    const validEpisodes = []
-    epispdes.forEach(episode => {
-      validEpisodes.push(makeEpisode(episode))
-    })
-    */
+
+    const validEpisodes = makeEpisodes(episodes)
 
     function isValidUrl (str) {
       if (str && typeof str === 'string') {
@@ -40,14 +38,22 @@ export default function buildMakepodcast ({ uuid }) {
       return false
     }
 
+    function toJson () {
+      return {
+        podcastId: podcastId,
+        url: url,
+        owner: owner || '',
+        title: title || '',
+        episodes: validEpisodes
+      }
+    }
     return Object.freeze({
       getUrl: () => url,
       getPodcastId: () => podcastId,
       getOwner: () => owner || '',
-      getTitle: () => title || ''
-      /*,
-      getEpisodes: () => validEpisodes
-       */
+      getTitle: () => title || '',
+      getEpisodes: () => validEpisodes,
+      toJson: toJson
     })
   }
 }

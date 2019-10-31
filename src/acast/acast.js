@@ -2,23 +2,30 @@ import makePodcast from '../podcast'
 export function makeAcast ({
   pipe,
   sendHttpRequest,
-  parser
+  conf
 }) {
   return Object.freeze({
     get: getPodcast
   })
 
   async function getPodcast (url) {
-    if (!url || url === ' ') {
+    if (!url || url === '') {
       throw new Error('podcast url is required.')
     }
+
+    const found = url.match(conf.acastRegExp)
+    if (!found) {
+      throw new Error(`Podcast url: '${url}' is not a valid Acast url`)
+    }
+    const show = found[1]
     const callAcastApi = pipe(
+      (show) => buildFeederUrl(show, conf),
       buildGetPodcastCommand,
       sendHttpRequest,
-      (response) => handleAcastResponse(response, parser)
+      handleAcastResponse
     )
     try {
-      const podcast = await callAcastApi(url)
+      const podcast = await callAcastApi(show)
       return podcast
     } catch (e) {
       /* TODO: More error handling:
@@ -26,15 +33,14 @@ export function makeAcast ({
         it should handle 5xx.
         it should handle own server failures
       */
-      console.error(e.message)
-      console.debug(e)
-      //console.log(e.response.data)
-      //console.log(parser.toJson(e.response.data))
       return null
     }
   }
 }
 
+export function buildFeederUrl (show, conf) {
+  return conf.acastFeederBaseUrl + show
+}
 export function buildGetPodcastCommand (url) {
   return {
     method: 'get',
@@ -42,7 +48,15 @@ export function buildGetPodcastCommand (url) {
   }
 }
 // TODO: it should return a valid Podcast.
-export async function handleAcastResponse (response, parser) {
+export async function handleAcastResponse (response) {
   const [result] = await Promise.all([response])
-  return parser.toJson(result.data)
+
+  const podcast = makePodcast({
+    title: result.data.title,
+    owner: result.data.owner.email,
+    episodes: result.data.episodes,
+    url: result.data.feedUrl
+  })
+
+  return podcast
 }

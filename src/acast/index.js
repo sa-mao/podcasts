@@ -1,19 +1,16 @@
 import axios from 'axios'
 import * as R from 'ramda'
-import xml2json from 'xml2json'
 import { makeAcast } from './acast'
-
-const parserOptions = {
-  sanitize: true,
-  object: true
-}
-const parser = {
-  toJson: (xml) => xml2json.toJson(xml, parserOptions)
+require('../conf')
+// TODO extract this to a config file
+const conf = {
+  acastRegExp: new RegExp(global.podcastConf.acastRegExp),
+  acastFeederBaseUrl: global.podcastConf.acastFeederBaseUrl
 }
 const acast = makeAcast({
   sendHttpRequest: axios,
   pipe: R.pipe,
-  parser
+  conf: conf
 })
 
 export default acast

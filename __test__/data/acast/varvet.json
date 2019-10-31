@@ -1,0 +1,2612 @@
+{
+   "url": "https://rss.acast.com/varvet",
+   "owner": "varvet@triumf.se",
+   "title": "Värvet",
+   "episodes": [
+       {
+           "title": "KORT VERSION - #388: Jakob Hellman",
+           "url": "https://media.acast.com/varvet/kortversion--388-jakobhellman/media.mp3",
+           "checksum": "ae81118a9e3d16552dfa67db11888fc3"
+       },
+       {
+           "title": "#388: Jakob Hellman",
+           "url": "https://media.acast.com/varvet/-388-jakobhellman/media.mp3",
+           "checksum": "593a0ffea1ce97c8e8aac19f6e7ac66b"
+       },
+       {
+           "title": "KORT VERSION - #387: Björn Dixgård",
+           "url": "https://media.acast.com/varvet/kortversion--387-bjorndixgard/media.mp3",
+           "checksum": "533164e84f2195868eea83c7b07c483e"
+       },
+       {
+           "title": "#387: Björn Dixgård",
+           "url": "https://media.acast.com/varvet/-387-bjorndixgard/media.mp3",
+           "checksum": "22487fbb4ee9a09dd32871e93f1d4435"
+       },
+       {
+           "title": "KORT VERSION - #386: Marie Richardson",
+           "url": "https://media.acast.com/varvet/kortversion--386-marierichardson/media.mp3",
+           "checksum": "7bc70904eec00519cd3642baf506e710"
+       },
+       {
+           "title": "#386: Marie Richardson",
+           "url": "https://media.acast.com/varvet/-386-marierichardson/media.mp3",
+           "checksum": "1f4c31aaba6b93324ef483e1304d535f"
+       },
+       {
+           "title": "KORT VERSION - #385: Alexander Kronlund",
+           "url": "https://media.acast.com/varvet/kortversion--385-alexanderkronlund/media.mp3",
+           "checksum": "5e5a4cb21f4b48853c0adcb4b732e878"
+       },
+       {
+           "title": "#385: Alexander Kronlund",
+           "url": "https://media.acast.com/varvet/-385-alexanderkronlund/media.mp3",
+           "checksum": "9ad53d9d0164a60cbfa440d76bbcff4f"
+       },
+       {
+           "title": "KORT VERSION - #384: Jacob Mühlrad",
+           "url": "https://media.acast.com/varvet/kortversion--384-jacobmuhlrad/media.mp3",
+           "checksum": "27476c831bb0e3dfaface33d632d2fa9"
+       },
+       {
+           "title": "#384: Jacob Mühlrad",
+           "url": "https://media.acast.com/varvet/-384-jacobmuhlrad/media.mp3",
+           "checksum": "f779c22cb5a6ae657303772fb95b2bd3"
+       },
+       {
+           "title": "KORT VERSION - #383: Margaux Dietz",
+           "url": "https://media.acast.com/varvet/kortversion--383-margauxdietz/media.mp3",
+           "checksum": "82518c2713c5921f602e5d73a6d57136"
+       },
+       {
+           "title": "#383: Margaux Dietz",
+           "url": "https://media.acast.com/varvet/-383-margauxdietz/media.mp3",
+           "checksum": "6baf45752f0774939352d692e2ee2edb"
+       },
+       {
+           "title": "KORT VERSION - #382: Thomas Bodström",
+           "url": "https://media.acast.com/varvet/kortversion--382-thomasbodstrom/media.mp3",
+           "checksum": "08eae98f2d2c1de9f9e8131c231b0429"
+       },
+       {
+           "title": "#382: Thomas Bodström",
+           "url": "https://media.acast.com/varvet/-382-thomasbodstrom/media.mp3",
+           "checksum": "211f389bd5e083affe0708052f56984e"
+       },
+       {
+           "title": "KORT VERSION - #381: Bill Skarsgård",
+           "url": "https://media.acast.com/varvet/kortversion--381-billskars/media.mp3",
+           "checksum": "769ce37cf7189faf0967e3fbc814f4e8"
+       },
+       {
+           "title": "#381: Bill Skarsgård",
+           "url": "https://media.acast.com/varvet/-381-billskarsgard/media.mp3",
+           "checksum": "9587b30f29672f0bc16165d8fd706c50"
+       },
+       {
+           "title": "KORT VERSION - #380: Liv Mjönes",
+           "url": "https://media.acast.com/varvet/kortversion--380-livmjones/media.mp3",
+           "checksum": "b1de3d0e61cff889e8257d07baf5ec92"
+       },
+       {
+           "title": "#380: Liv Mjönes",
+           "url": "https://media.acast.com/varvet/-380-livmjones/media.mp3",
+           "checksum": "18cd6861233ed8046b84e344afc36c9e"
+       },
+       {
+           "title": "KORT VERSION - #379: Ola Lindholm",
+           "url": "https://media.acast.com/varvet/kortversion--379-olalindholm/media.mp3",
+           "checksum": "7071a86c161e253a8efdfc3077666d66"
+       },
+       {
+           "title": "#379: Ola Lindholm",
+           "url": "https://media.acast.com/varvet/-379-olalindholm/media.mp3",
+           "checksum": "f9308fe8e1261020dacd7d8a34a00570"
+       },
+       {
+           "title": "KORT VERSION - #378: Saga Becker",
+           "url": "https://media.acast.com/varvet/kortversion--378-sagabecker/media.mp3",
+           "checksum": "b97fe72f558067b76fde4ff9bc96a7c2"
+       },
+       {
+           "title": "#378: Saga Becker",
+           "url": "https://media.acast.com/varvet/-378-sagabecker/media.mp3",
+           "checksum": "953711814211b098127dcebacb91ee6b"
+       },
+       {
+           "title": "KORT VERSION - RV:23 Jonas",
+           "url": "https://media.acast.com/varvet/kortversion-rv-23jonas/media.mp3",
+           "checksum": "043b4714688f71e4eec7ae529f577d40"
+       },
+       {
+           "title": "RV23: Jonas Gardell",
+           "url": "https://media.acast.com/varvet/rv23-jonasgardell/media.mp3",
+           "checksum": "75c253f7641d8841744595acad989dac"
+       },
+       {
+           "title": "KORT VERSION - #377: Jesper Börjesson",
+           "url": "https://media.acast.com/varvet/kortversion--377-jesperborjesson/media.mp3",
+           "checksum": "cc42a78aa29b96e426430816051cbee7"
+       },
+       {
+           "title": "#377: Jesper Börjesson",
+           "url": "https://media.acast.com/varvet/-377-jesperborjesson/media.mp3",
+           "checksum": "e021292c4e7b34d4014a1ad035bced11"
+       },
+       {
+           "title": "KORT VERSION - #376: Hedda Stiernstedt",
+           "url": "https://media.acast.com/varvet/kortversion--376-heddastiernstedt/media.mp3",
+           "checksum": "1eac65fd5f41b8bf9968b3bf3bc763f2"
+       },
+       {
+           "title": "#376: Hedda Stiernstedt",
+           "url": "https://media.acast.com/varvet/-376-heddastiernstedt/media.mp3",
+           "checksum": "242685b80c8cc4f07037d478593878fb"
+       },
+       {
+           "title": "KORT VERSION - #375: Mikaela Laurén",
+           "url": "https://media.acast.com/varvet/kortversion--375-mikaelalauren/media.mp3",
+           "checksum": "33da289029fe6f854d8a9f7b140ebb3e"
+       },
+       {
+           "title": "#375: Mikaela Laurén",
+           "url": "https://media.acast.com/varvet/-375-mikaelalauren/media.mp3",
+           "checksum": "e8dd4ae8a4d5d334fde37181f9116cbb"
+       },
+       {
+           "title": "KORT VERSION - #374: Emma Frans",
+           "url": "https://media.acast.com/varvet/kortversion--374-emmafrans/media.mp3",
+           "checksum": "831a88b032ec4de57ace5a9cef383b7e"
+       },
+       {
+           "title": "#374: Emma Frans",
+           "url": "https://media.acast.com/varvet/-374-emmafrans/media.mp3",
+           "checksum": "5bb01c5e7fc552b613457761473764fc"
+       },
+       {
+           "title": "KORT VERSION - #373: Simon J Berger",
+           "url": "https://media.acast.com/varvet/kortversion--373-simonjberger/media.mp3",
+           "checksum": "e33a1419575d54190c7bd7858472e9a4"
+       },
+       {
+           "title": "#373: Simon J Berger",
+           "url": "https://media.acast.com/varvet/-373-simonjberger/media.mp3",
+           "checksum": "0f9edb44b9d5bcab7bc0aa5f8f7a27c1"
+       },
+       {
+           "title": "KORT VERSION - #372: Anna Hedenmo",
+           "url": "https://media.acast.com/varvet/kortversion--372-annahedenmo/media.mp3",
+           "checksum": "f52dd35092b22cbe2b8be776ebbb9a2d"
+       },
+       {
+           "title": "#372: Anna Hedenmo",
+           "url": "https://media.acast.com/varvet/-372-annahedenmo/media.mp3",
+           "checksum": "a6491233c3cbf27d06f80a788ac26c26"
+       },
+       {
+           "title": "KORT VERSION - #371: Nino Ramsby",
+           "url": "https://media.acast.com/varvet/kortversion--371-ninoramsby/media.mp3",
+           "checksum": "c4d6704c28dc310ca8fd62dfa75aaef0"
+       },
+       {
+           "title": "#371: Nino Ramsby",
+           "url": "https://media.acast.com/varvet/-371-ninoramsby/media.mp3",
+           "checksum": "c4acca49b3f9aac7972a1895608e43f9"
+       },
+       {
+           "title": "Värvet dokumentär: Flygskammen",
+           "url": "https://media.acast.com/varvet/varvetdokumentar-flygskammen/media.mp3",
+           "checksum": "77a970e786a0a85e15dd58c8411f460e"
+       },
+       {
+           "title": "KORT VERSION - #370: Emma Molin",
+           "url": "https://media.acast.com/varvet/kortversion--370-emmamolin/media.mp3",
+           "checksum": "6cf159f41d54d918c0ce47fe947fcab3"
+       },
+       {
+           "title": "#370: Emma Molin",
+           "url": "https://media.acast.com/varvet/-370-emmamolin/media.mp3",
+           "checksum": "5c698c8c3c08a77ff29e1693f72c6fa1"
+       },
+       {
+           "title": "KORT VERSION - #369: Ison Glasgow",
+           "url": "https://media.acast.com/varvet/kortversion--369-isonglasgow/media.mp3",
+           "checksum": "faf047780d0e34e8d468f91e1abf2dfc"
+       },
+       {
+           "title": "#369: Ison Glasgow",
+           "url": "https://media.acast.com/varvet/-369-isonglasgow/media.mp3",
+           "checksum": "fa140c361e72ab19f4d96db5d4ec8bac"
+       },
+       {
+           "title": "KORT VERSION #368: Lasse Kronér",
+           "url": "https://media.acast.com/varvet/kortversion-368-lassekroner/media.mp3",
+           "checksum": "c2a45cf78a3df874e5eb636813b4ac4a"
+       },
+       {
+           "title": "#368: Lasse Kronér",
+           "url": "https://media.acast.com/varvet/-368-lassekroner/media.mp3",
+           "checksum": "ebd3ba660838e137e00e47dcb0591133"
+       },
+       {
+           "title": "KORT VERSION - #367: Janne Josefsson",
+           "url": "https://media.acast.com/varvet/kortversion--367-jannejosefsson/media.mp3",
+           "checksum": "ddfabd28e4b8f0503749519625fe0e6d"
+       },
+       {
+           "title": "#367: Janne Josefsson",
+           "url": "https://media.acast.com/varvet/-367-jannejosefsson/media.mp3",
+           "checksum": "6f911a4959958a4f9cac539f6ab65020"
+       },
+       {
+           "title": "KORT VERSION - #366: Dragomir Mrsic",
+           "url": "https://media.acast.com/varvet/kortversion--366-dragomirmrsic/media.mp3",
+           "checksum": "1c3622ab6c55353eb876c36e41302ebe"
+       },
+       {
+           "title": "#366: Dragomir Mrsic",
+           "url": "https://media.acast.com/varvet/-366-dragomirmrsic/media.mp3",
+           "checksum": "134d9689c42e8154428340e437f06842"
+       },
+       {
+           "title": "KORT VERSION - #365: Julia Dufvenius",
+           "url": "https://media.acast.com/varvet/kortversion--365-juliadufvenius/media.mp3",
+           "checksum": "05a8aaaac6493c7457a7d42449659e99"
+       },
+       {
+           "title": "#365: Julia Dufvenius",
+           "url": "https://media.acast.com/varvet/-365-juliadufvenius/media.mp3",
+           "checksum": "429218f2957cae84cfe5f65fe1e1997a"
+       },
+       {
+           "title": "KORT VERSION - #364: Kristina \"Keyyo\" Petrushina",
+           "url": "https://media.acast.com/varvet/kortversion--364-kristinakeyyopetrushina/media.mp3",
+           "checksum": "ae95383fa72daff1e7dd9ae8ac1a3547"
+       },
+       {
+           "title": "#364: Kristina \"Keyyo\" Petrushina",
+           "url": "https://media.acast.com/varvet/-364-kristinakeyyopetrushina/media.mp3",
+           "checksum": "dc4db9edbac0d1f72eb36381695510f1"
+       },
+       {
+           "title": "KORT VERSION - #363: Neneh Cherry",
+           "url": "https://media.acast.com/varvet/kortversion--363-nenehcherry/media.mp3",
+           "checksum": "cacae12586217cd579eadb6586dd0814"
+       },
+       {
+           "title": "#363: Neneh Cherry",
+           "url": "https://media.acast.com/varvet/-363-nenehcherry/media.mp3",
+           "checksum": "6f7385a138a3ed65984da92e47d6bcf9"
+       },
+       {
+           "title": "KORT VERSION - RV22: Jenny Wilson",
+           "url": "https://media.acast.com/varvet/kortversion-rv22-jennywilson/media.mp3",
+           "checksum": "111a0a2a88be05aa4fefd900273646df"
+       },
+       {
+           "title": "RV22: Jenny Wilson",
+           "url": "https://media.acast.com/varvet/rv22-jennywilson/media.mp3",
+           "checksum": "cd90a39b83a81a76c6a15918c2d5d1b9"
+       },
+       {
+           "title": "KORT VERSION - #362: Lisa Miskovsky",
+           "url": "https://media.acast.com/varvet/kortversion--362-lisamiskovsky/media.mp3",
+           "checksum": "89931597a64d178c53b658c1b04a37a2"
+       },
+       {
+           "title": "#362: Lisa Miskovsky",
+           "url": "https://media.acast.com/varvet/-362-lisamiskovsky/media.mp3",
+           "checksum": "d4f8cc9d47f7ce08102b2b3b90422d05"
+       },
+       {
+           "title": "KORT VERSION - #361: Felix Sandman",
+           "url": "https://media.acast.com/varvet/kortversion--361-felixsandman/media.mp3",
+           "checksum": "595f71b9846304dcf92bdbfb3c3cba04"
+       },
+       {
+           "title": "#361: Felix Sandman",
+           "url": "https://media.acast.com/varvet/-361-felixsandman/media.mp3",
+           "checksum": "fbcbd3f08e100a95cf6324bcd6f4518f"
+       },
+       {
+           "title": "KORT VERSION - #360: Mikael Wiehe",
+           "url": "https://media.acast.com/varvet/kortversion--360-mikaelwiehe/media.mp3",
+           "checksum": "036ede80093aa64d223c239a15a9a04e"
+       },
+       {
+           "title": "#360: Mikael Wiehe",
+           "url": "https://media.acast.com/varvet/-360-mikaelwiehe/media.mp3",
+           "checksum": "66d2ffc88f568cb43752a262d05c3c54"
+       },
+       {
+           "title": "KORT VERSION - #359: Stina Wollter",
+           "url": "https://media.acast.com/varvet/kortversion--359-stinawollter/media.mp3",
+           "checksum": "9236a540e6b09db494a04380624c85aa"
+       },
+       {
+           "title": "#359: Stina Wollter",
+           "url": "https://media.acast.com/varvet/-359-stinawollter/media.mp3",
+           "checksum": "76fdbe03008eb2764f18d0a10f5b5953"
+       },
+       {
+           "title": "KORT VERSION - #358: Erik Lundin",
+           "url": "https://media.acast.com/varvet/kortversion--358-eriklundin/media.mp3",
+           "checksum": "b880359e8465a5867543412b6e454535"
+       },
+       {
+           "title": "#358: Erik Lundin",
+           "url": "https://media.acast.com/varvet/-358-eriklundin/media.mp3",
+           "checksum": "50707a55af34ab066b9fad831baa4b4e"
+       },
+       {
+           "title": "KORT VERSION - #357: Kodjo Akolor",
+           "url": "https://media.acast.com/varvet/kortversion--357-kodjoakolor/media.mp3",
+           "checksum": "5b6ad8b7398bcf732d8aa23b76216aae"
+       },
+       {
+           "title": "#357: Kodjo Akolor",
+           "url": "https://media.acast.com/varvet/-357-kodjoakolor/media.mp3",
+           "checksum": "c120ecb97db2b62dbddf8d412c191d43"
+       },
+       {
+           "title": "KORT VERSION - RV21: Lina Thomsgård",
+           "url": "https://media.acast.com/varvet/kortversion-rv21-linathomsgard/media.mp3",
+           "checksum": "ff4d40ed5e92139e2871520286f38460"
+       },
+       {
+           "title": "RV21: Lina Thomsgård",
+           "url": "https://media.acast.com/varvet/rv21-linathomsgard/media.mp3",
+           "checksum": "6cf5debbc5459f4cd9026a4ed51476f9"
+       },
+       {
+           "title": "KORT VERSION - #356: Lennart Jähkel",
+           "url": "https://media.acast.com/varvet/kortversion--356-lennartjahkel/media.mp3",
+           "checksum": "2094dbe56abc82687f5729e56036b2da"
+       },
+       {
+           "title": "#356: Lennart Jähkel",
+           "url": "https://media.acast.com/varvet/-356-lennartjahkel/media.mp3",
+           "checksum": "33ce61bd64ec85b4ba4c99213a71770b"
+       },
+       {
+           "title": "KORT VERSION - RV20: Silvana Imam",
+           "url": "https://media.acast.com/varvet/kortversion-rv20-silvanaimam/media.mp3",
+           "checksum": "0f905e09e1dce09b332c5564adc69ddc"
+       },
+       {
+           "title": "RV20: Silvana Imam",
+           "url": "https://media.acast.com/varvet/rv20-silvanaimam/media.mp3",
+           "checksum": "898a801c48cd7c1211ed59b805247834"
+       },
+       {
+           "title": "KORT VERSION - #355: David Sundin",
+           "url": "https://media.acast.com/varvet/kortversion--355-davidsundin/media.mp3",
+           "checksum": "0eabae0847ace8dc5dbcb904076c819e"
+       },
+       {
+           "title": "#355: David Sundin",
+           "url": "https://media.acast.com/varvet/-355-davidsundin/media.mp3",
+           "checksum": "4030a2cb5124f38cf6a8e0e5c479c03c"
+       },
+       {
+           "title": "KORT VERSION - #354: Sanna Sundqvist",
+           "url": "https://media.acast.com/varvet/kortversion--354-sannasundqvist/media.mp3",
+           "checksum": "c43a27a9808fd4b811576f5fe3d717dc"
+       },
+       {
+           "title": "#354: Sanna Sundqvist",
+           "url": "https://media.acast.com/varvet/-354-sannasundqvist/media.mp3",
+           "checksum": "f8f956dbd36b642ad7187e5ff48626ca"
+       },
+       {
+           "title": "Värvet dokumentär: Djävulen",
+           "url": "https://media.acast.com/varvet/varvetdokumentar-djavulen/media.mp3",
+           "checksum": "32476ecda9b0f6889f9c360c3614616c"
+       },
+       {
+           "title": "KORT VERSION - #353: Micael Dahlen",
+           "url": "https://media.acast.com/varvet/kortversion-353-micaeldahlen/media.mp3",
+           "checksum": "deffbd9f126fac0e55308eafaf04da66"
+       },
+       {
+           "title": "#353: Micael Dahlen",
+           "url": "https://media.acast.com/varvet/353-micaeldahlen/media.mp3",
+           "checksum": "af4f95ae10de1a3a651b58aed1ad0bd0"
+       },
+       {
+           "title": "#352: Olof Wretling",
+           "url": "https://media.acast.com/varvet/352-olofwretling/media.mp3",
+           "checksum": "4c803e08da715dbb4b4cf08bb1aa4c31"
+       },
+       {
+           "title": "#351: Oscar Zia",
+           "url": "https://media.acast.com/varvet/351-oscarzia/media.mp3",
+           "checksum": "1c2d9b62122f77b6edc40d49aac893da"
+       },
+       {
+           "title": "#350: Gunhild Stordalen",
+           "url": "https://media.acast.com/varvet/-gundhildstordalen/media.mp3",
+           "checksum": "9850b1caaf961c8a6ad580765bd73a7a"
+       },
+       {
+           "title": "#349: Erik ”Jerka” Johansson",
+           "url": "https://media.acast.com/varvet/-349-erik-jerka-johansson/media.mp3",
+           "checksum": "cda5457dd1eb1b3ef3bc31eb74b21d48"
+       },
+       {
+           "title": "#348: Kim Cesarion",
+           "url": "https://media.acast.com/varvet/-348-kimcesarion/media.mp3",
+           "checksum": "8e63cb208259d49c583309ef53ecd271"
+       },
+       {
+           "title": "#347: Louise Hoffsten",
+           "url": "https://media.acast.com/varvet/-347-louisehoffsten/media.mp3",
+           "checksum": "e581ad44cda54a9580372140a8353f4f"
+       },
+       {
+           "title": "#346: Anna Kinberg Batra",
+           "url": "https://media.acast.com/varvet/-346-annakinbergbatra/media.mp3",
+           "checksum": "2f81a03c92471fa10c2ed2c92bcd8456"
+       },
+       {
+           "title": "#345: Shanti Roney",
+           "url": "https://media.acast.com/varvet/-345-shantironey/media.mp3",
+           "checksum": "ca16a1808ed0d62f7481b126449fcda0"
+       },
+       {
+           "title": "#344: Lykke Li",
+           "url": "https://media.acast.com/varvet/-344-lykkeli/media.mp3",
+           "checksum": "03bb5d2c80e9aadc072dd8d184db656e"
+       },
+       {
+           "title": "#343: Eagle-Eye Cherry",
+           "url": "https://media.acast.com/varvet/-343-eagle-eyecherry/media.mp3",
+           "checksum": "a403055dd8de1f132360bc35bd5e8850"
+       },
+       {
+           "title": "#342: Bianca Ingrosso",
+           "url": "https://media.acast.com/varvet/-342-biancaingrosso/media.mp3",
+           "checksum": "2d099fe2e40233f4ba82a098d4752050"
+       },
+       {
+           "title": "#341: Daniel Hallberg",
+           "url": "https://media.acast.com/varvet/-341-danielhallberg/media.mp3",
+           "checksum": "540bbd03a6ef0e40f46bf8bb68da3e44"
+       },
+       {
+           "title": "#340: Kaj Linna",
+           "url": "https://media.acast.com/varvet/-340-kajlinna/media.mp3",
+           "checksum": "89c88d851804f64b07019a05db049301"
+       },
+       {
+           "title": "#339: Moa Gammel",
+           "url": "https://media.acast.com/varvet/-339-moagammel/media.mp3",
+           "checksum": "db50ea073250450cf2e8b78b68d1e2d6"
+       },
+       {
+           "title": "#338: Lars Kepler",
+           "url": "https://media.acast.com/varvet/-338-larskepler/media.mp3",
+           "checksum": "a56552a459e8e6a446c1ceca9b856896"
+       },
+       {
+           "title": "#337: Peter Dalle",
+           "url": "https://media.acast.com/varvet/-337-peterdalle/media.mp3",
+           "checksum": "ae901b57821e62c60637ea70aa02ef82"
+       },
+       {
+           "title": "RV19: Vera Vitali",
+           "url": "https://media.acast.com/varvet/rv19-veravitali/media.mp3",
+           "checksum": "56032995982c1fca0c0a673024c19b60"
+       },
+       {
+           "title": "#336: Per Morberg",
+           "url": "https://media.acast.com/varvet/-336-permorberg/media.mp3",
+           "checksum": "b485ea6973cfd8f1b6fdd99fd9db1c55"
+       },
+       {
+           "title": "#335: Anna Anka",
+           "url": "https://media.acast.com/varvet/-335-annaanka/media.mp3",
+           "checksum": "483ffd8e2d088855732cf3d19ab9e6dc"
+       },
+       {
+           "title": "#334: José González",
+           "url": "https://media.acast.com/varvet/-334-josegonzalez/media.mp3",
+           "checksum": "f150c6dc427d6bf4f0ee716802c7e5aa"
+       },
+       {
+           "title": "#333: Gellert Tamas",
+           "url": "https://media.acast.com/varvet/-313-gellerttamas/media.mp3",
+           "checksum": "6660fdae46eb70b5dcc39ef4b5fe6d59"
+       },
+       {
+           "title": "#332: Ulf Kristersson",
+           "url": "https://media.acast.com/varvet/-332-ulfkristersson/media.mp3",
+           "checksum": "757b5087cbf767c475c6419759a96b1f"
+       },
+       {
+           "title": "#331: Laila Bagge",
+           "url": "https://media.acast.com/varvet/-331-lailabagge/media.mp3",
+           "checksum": "48f1123114db909834240cde772ef1b5"
+       },
+       {
+           "title": "RV18: Filip Hammar",
+           "url": "https://media.acast.com/varvet/rv18-filiphammar/media.mp3",
+           "checksum": "0ae63c073ac47591b46075d0a750075a"
+       },
+       {
+           "title": "#330: Benjamin Ingrosso",
+           "url": "https://media.acast.com/varvet/-330-benjaminingrosso/media.mp3",
+           "checksum": "b9f4076bd62be7981a709ad4b822138f"
+       },
+       {
+           "title": "UPPVÄRVNING med Benjamin Ingrosso",
+           "url": "https://media.acast.com/varvet/uppvarvningmedbenjaminingrosso/media.mp3",
+           "checksum": "791bdf35dda4b5c09db3d773edc04356"
+       },
+       {
+           "title": "Värvet & Skapandet",
+           "url": "https://media.acast.com/varvet/varvet-skapandet/media.mp3",
+           "checksum": "09d4d43bab61eba51e033ff76b46d65f"
+       },
+       {
+           "title": "Värvet & Föräldrarna",
+           "url": "https://media.acast.com/varvet/varvet-foraldrarna/media.mp3",
+           "checksum": "5ee8177d6ec1fc88b1d7787cb4d68950"
+       },
+       {
+           "title": "Värvet & Livet",
+           "url": "https://media.acast.com/varvet/varvet-livet/media.mp3",
+           "checksum": "f588afe744963ce5ac09bc7739259e4c"
+       },
+       {
+           "title": "Värvet & Framgången",
+           "url": "https://media.acast.com/varvet/varvet-framgangen/media.mp3",
+           "checksum": "df1ee1d817c1c8d379933499537c6fe9"
+       },
+       {
+           "title": "RV17: Sigge Eklund",
+           "url": "https://media.acast.com/varvet/rv17-siggeeklund/media.mp3",
+           "checksum": "3117e240ba0e01995ec8511981ce010d"
+       },
+       {
+           "title": "#329: Tommy Körberg",
+           "url": "https://media.acast.com/varvet/-329-tommykorberg/media.mp3",
+           "checksum": "548247a9763ce3a7744ade8854e73647"
+       },
+       {
+           "title": "#328: Sofie Sarenbrant",
+           "url": "https://media.acast.com/varvet/-328-sofiesarenbrant/media.mp3",
+           "checksum": "2e65b371229f7451a281c79ed1ce6d20"
+       },
+       {
+           "title": "UPPVÄRVNING med Sofie Sarenbrant",
+           "url": "https://media.acast.com/varvet/uppvarvningmedsofiesarenbrant/media.mp3",
+           "checksum": "114970b01406c7f9a0a887dd612a82d2"
+       },
+       {
+           "title": "RV16: Mårten Andersson",
+           "url": "https://media.acast.com/varvet/rv16-martenandersson/media.mp3",
+           "checksum": "0a16cc2a7a6294c18f7059252453951a"
+       },
+       {
+           "title": "UPPVÄRVNING med Mårten Andersson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmartenandersson/media.mp3",
+           "checksum": "9d4a3cd35a67ab657aca13ad4585abb1"
+       },
+       {
+           "title": "#327: Josephine Bornebusch",
+           "url": "https://media.acast.com/varvet/-327-josephinebornebusch/media.mp3",
+           "checksum": "78b21604358633bffa66bf4d31357b0e"
+       },
+       {
+           "title": "#326: Jimmie Åkesson",
+           "url": "https://media.acast.com/varvet/-326-jimmieakesson/media.mp3",
+           "checksum": "d87226d3fdbad80afeb5442c2713bfed"
+       },
+       {
+           "title": "#325: Carolina Klüft",
+           "url": "https://media.acast.com/varvet/-325-carolinakluft/media.mp3",
+           "checksum": "2c72459b63c70252d1b4c6ee38e66bef"
+       },
+       {
+           "title": "#324: Tove Styrke",
+           "url": "https://media.acast.com/varvet/-324-tovestyrke/media.mp3",
+           "checksum": "b86b647c41d708902c15c72c9ae4578f"
+       },
+       {
+           "title": "UPPVÄRVNING med Tove Styrke",
+           "url": "https://media.acast.com/varvet/uppvarvningmedtovestyrke/media.mp3",
+           "checksum": "fc7b68aa241efd4b0c3dd95970913cb9"
+       },
+       {
+           "title": "#323: Uno Svenningsson",
+           "url": "https://media.acast.com/varvet/-323-unosvenningsson/media.mp3",
+           "checksum": "8d6b1b4e2b8576d863d1b0f477be1284"
+       },
+       {
+           "title": "UPPVÄRVNING med Uno Svenningsson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedunosvenningsson/media.mp3",
+           "checksum": "11f7884c18d7acea516f056a6b33bb75"
+       },
+       {
+           "title": "#322: Navid Modiri",
+           "url": "https://media.acast.com/varvet/-322-davidmodiri/media.mp3",
+           "checksum": "e5a6a3538835e8751a0d76333cf3e9e2"
+       },
+       {
+           "title": "UPPVÄRVNING med Navid Modiri",
+           "url": "https://media.acast.com/varvet/uppvarvningmednavidmodiri/media.mp3",
+           "checksum": "aa2ebb76a421e379f68db184bc158f1d"
+       },
+       {
+           "title": "#321: Lena Endre",
+           "url": "https://media.acast.com/varvet/-321-lenaendre/media.mp3",
+           "checksum": "218d069e36c6c61ed3513f90d2616517"
+       },
+       {
+           "title": "#320: Malin Åkerman",
+           "url": "https://media.acast.com/varvet/-320-malinakerman/media.mp3",
+           "checksum": "894815f7896552a95f8192b3d7f5d8f8"
+       },
+       {
+           "title": "#319: Sebastian Stakset",
+           "url": "https://media.acast.com/varvet/-319-sebastianstakset/media.mp3",
+           "checksum": "14bdb50851ef6b7c4d38a07260f60693"
+       },
+       {
+           "title": "UPPVÄRVNING med Sebastian Stakset",
+           "url": "https://media.acast.com/varvet/uppvarvningmedsebastianstakset/media.mp3",
+           "checksum": "9458aebf5cb8e1c1747b3dd2aeb4de99"
+       },
+       {
+           "title": "#318: Jonas Sjöstedt",
+           "url": "https://media.acast.com/varvet/-318-jonassjostedt/media.mp3",
+           "checksum": "59154ca9a148f93161d13e215a76a7fa"
+       },
+       {
+           "title": "UPPVÄRVNING med Jonas Sjöstedt",
+           "url": "https://media.acast.com/varvet/uppvarvningmedjonassjostedt/media.mp3",
+           "checksum": "f2ba4e83e8925990b610370132544f24"
+       },
+       {
+           "title": "#317: Mia Parnevik",
+           "url": "https://media.acast.com/varvet/-317-miaparnevik/media.mp3",
+           "checksum": "ab88592a42193bedd21eb60de4935897"
+       },
+       {
+           "title": "#316: Jesper Parnevik",
+           "url": "https://media.acast.com/varvet/-316-jesperparnevik/media.mp3",
+           "checksum": "fee621271ef23cb76f580932e5f540d9"
+       },
+       {
+           "title": "#315: Britt Ekland",
+           "url": "https://media.acast.com/varvet/-315-brittekland/media.mp3",
+           "checksum": "7fcbf1e0023461b9dde64271d3e262d5"
+       },
+       {
+           "title": "#314: Alicia Vikander",
+           "url": "https://media.acast.com/varvet/-314-aliciavikander/media.mp3",
+           "checksum": "e51f29d4fd8aa49ef42e09a4c54bcd5a"
+       },
+       {
+           "title": "SPECIAL: Katja, Stockholms Stadsmission",
+           "url": "https://media.acast.com/varvet/special-katja-stockholmsstadsmission/media.mp3",
+           "checksum": "62c9eee249a16f518fae537f4d475c35"
+       },
+       {
+           "title": "#313: Martin Soneby",
+           "url": "https://media.acast.com/varvet/-313-martinsoneby/media.mp3",
+           "checksum": "1e0fe6f87e152f85ee4e81cb8dbc5aba"
+       },
+       {
+           "title": "UPPVÄRVNING med Martin Soneby",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmartinsoneby/media.mp3",
+           "checksum": "3919eb41852a32ea5ad74992ee262e4d"
+       },
+       {
+           "title": "#312: Cissi Wallin",
+           "url": "https://media.acast.com/varvet/-312-cissiwallin/media.mp3",
+           "checksum": "ea37475604806e6e97b875b8cc66714d"
+       },
+       {
+           "title": "UPPVÄRVNING med Cissi Wallin",
+           "url": "https://media.acast.com/varvet/uppvarvningmedcissiwallin/media.mp3",
+           "checksum": "998684021363dad3a24ba1c0deaa8cfc"
+       },
+       {
+           "title": "#311: Lars Vilks",
+           "url": "https://media.acast.com/varvet/-311-larsvilks/media.mp3",
+           "checksum": "1c2b20f72666e101e5c506662fdd0a4a"
+       },
+       {
+           "title": "#310: Denise Rudberg",
+           "url": "https://media.acast.com/varvet/-310-deniserudberg/media.mp3",
+           "checksum": "6d397ca7c86983cf236ce9c4b60877b8"
+       },
+       {
+           "title": "UPPVÄRVNING med Denise Rudberg",
+           "url": "https://media.acast.com/varvet/uppvarvningmeddeniserudberg/media.mp3",
+           "checksum": "f0f9f2d03d9591ca48e5599d5f3729ea"
+       },
+       {
+           "title": "#309: Tobias Forge (Ghost)",
+           "url": "https://media.acast.com/varvet/-303-tobiasghostforge/media.mp3",
+           "checksum": "528be9765fe32714a9de2871daa7abe4"
+       },
+       {
+           "title": "UPPVÄRVNING med Tobias Forge",
+           "url": "https://media.acast.com/varvet/uppvarvningmedtobiasforge/media.mp3",
+           "checksum": "4f6aa37038457fb3e632de64a445921e"
+       },
+       {
+           "title": "#308: Svante Thuresson",
+           "url": "https://media.acast.com/varvet/-308-svantethuresson/media.mp3",
+           "checksum": "92c7fc23ad80513608c673b8e281b638"
+       },
+       {
+           "title": "UPPVÄRVNING med Svante Thuresson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedsvantethuresson/media.mp3",
+           "checksum": "9f7679f713be32ff0b2f0651f13d4a03"
+       },
+       {
+           "title": "#307: Markus Aujalay",
+           "url": "https://media.acast.com/varvet/-307-markusaujalay/media.mp3",
+           "checksum": "9907a60a90aa96697c0f1b5431016584"
+       },
+       {
+           "title": "UPPVÄRVNING med Markus Aujalay",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmarkusaujalay/media.mp3",
+           "checksum": "36142b9941e01571f1bf58d271bc26dd"
+       },
+       {
+           "title": "RV15: First Aid Kit",
+           "url": "https://media.acast.com/varvet/rv15-firstaidkit/media.mp3",
+           "checksum": "6a84f99c83bca9ee459c14e882492cb9"
+       },
+       {
+           "title": "#306: Emma Knyckare",
+           "url": "https://media.acast.com/varvet/-306-emmaknyckare/media.mp3",
+           "checksum": "c6cf724f8fd75d50c6b9c01d712b2475"
+       },
+       {
+           "title": "#305: Adam Pålsson",
+           "url": "https://media.acast.com/varvet/-305-adampalsson/media.mp3",
+           "checksum": "2e81cf4846700ec47cc5e779c9136004"
+       },
+       {
+           "title": "#304: Ane Brun",
+           "url": "https://media.acast.com/varvet/-304-anebrun/media.mp3",
+           "checksum": "7a8b24689d5ef6e24a2ed7555958d4b6"
+       },
+       {
+           "title": "UPPVÄRVNING med Ane Brun",
+           "url": "https://media.acast.com/varvet/uppvarvningmedanebrun/media.mp3",
+           "checksum": "ef1e5d49cd28f9243a9fd2c0e1a57e77"
+       },
+       {
+           "title": "#303: Glenn Hysén",
+           "url": "https://media.acast.com/varvet/-303-glennhysen/media.mp3",
+           "checksum": "26d763be067bf141838774f7b83299c2"
+       },
+       {
+           "title": "#302: Frida Hallgren",
+           "url": "https://media.acast.com/varvet/-302-fridahallgren/media.mp3",
+           "checksum": "dc5fc97af3162f68f2fa143cd05ab88a"
+       },
+       {
+           "title": "UPPVÄRVNING med Frida Hallgren",
+           "url": "https://media.acast.com/varvet/uppvarvningenmedfridahallgren/media.mp3",
+           "checksum": "4287827c3dd5af53c55f07a5b9b06e3e"
+       },
+       {
+           "title": "#301: Loreen",
+           "url": "https://media.acast.com/varvet/-301-loreen/media.mp3",
+           "checksum": "05aab9133462c071a82b15ffa5d5456a"
+       },
+       {
+           "title": "UPPVÄRVNING med Loreen",
+           "url": "https://media.acast.com/varvet/uppvarvningmedloreen/media.mp3",
+           "checksum": "52394f6d2a99f96b2a6a1fba21afa99e"
+       },
+       {
+           "title": "#300: Henrik Berggren, Little Jinder, Henrik Dorsin, Clara Henry & Cissi Wallin",
+           "url": "https://media.acast.com/varvet/-300-henrikberggren-littlejinder-henrikdorsin-clarahenry-cissiwallin/media.mp3",
+           "checksum": "75012638de744566035d36059c5fd7d7"
+       },
+       {
+           "title": "RV14: Eva Röse",
+           "url": "https://media.acast.com/varvet/rv14-evarose/media.mp3",
+           "checksum": "cea585277410d989a0c5e5f253dd68c9"
+       },
+       {
+           "title": "#299: Messiah Hallberg",
+           "url": "https://media.acast.com/varvet/-299-messiahhallberg/media.mp3",
+           "checksum": "2dd2e25edd7d1b93d2ba75dba742b57e"
+       },
+       {
+           "title": "UPPVÄRVNING med Messiah Hallberg",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmessiahhallberg/media.mp3",
+           "checksum": "c4967ec6f24ee8ae515f17bfaefe7b07"
+       },
+       {
+           "title": "#298: Carola",
+           "url": "https://media.acast.com/varvet/-298-carola/media.mp3",
+           "checksum": "38e9b2de94ee6d28a2ba2947f7ce3ba6"
+       },
+       {
+           "title": "UPPVÄRVNING med Carola",
+           "url": "https://media.acast.com/varvet/uppvarvningmedcarola/media.mp3",
+           "checksum": "22ba476b47649b1eea280d10eb9f8cd4"
+       },
+       {
+           "title": "#297: Joakim Lundell",
+           "url": "https://media.acast.com/varvet/-297-joakimlundell/media.mp3",
+           "checksum": "aae1b8d23ca517aa0fa1ea2de6679a6c"
+       },
+       {
+           "title": "RV13: David Batra",
+           "url": "https://media.acast.com/varvet/rv13-davidbatra/media.mp3",
+           "checksum": "abca85401dd67527b54ff7d5b7391fb7"
+       },
+       {
+           "title": "UPPVÄRVNINGEN med David Batra",
+           "url": "https://media.acast.com/varvet/uppvarvningenmeddavidbatra/media.mp3",
+           "checksum": "be09629e69f18f7f85fc37d2a822a1b6"
+       },
+       {
+           "title": "#296: Ola Salo",
+           "url": "https://media.acast.com/varvet/-296-olasalo/media.mp3",
+           "checksum": "87e2b330eb211552a22afc38bc4d2c50"
+       },
+       {
+           "title": "UPPVÄRVNING med Ola Salo",
+           "url": "https://media.acast.com/varvet/uppvarvningmedolasalo/media.mp3",
+           "checksum": "236be4f44ee23555f1fe05052f91292a"
+       },
+       {
+           "title": "#295: Martin Stenmarck",
+           "url": "https://media.acast.com/varvet/-295-martinstenmarck/media.mp3",
+           "checksum": "6173bfb22ef77f46042aed8df6e80807"
+       },
+       {
+           "title": "UPPVÄRVNING med Martin Stenmarck",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmartinstenmarck/media.mp3",
+           "checksum": "8c44545d8885981354a867b4730a3d7b"
+       },
+       {
+           "title": "#294: Mia Skäringer Lázár",
+           "url": "https://media.acast.com/varvet/-294-miaskaringerlazar/media.mp3",
+           "checksum": "3da460ef0a71beb6c2ad6f49c3bbb768"
+       },
+       {
+           "title": "RV12: Molly Sandén",
+           "url": "https://media.acast.com/varvet/rv12mollysanden/media.mp3",
+           "checksum": "2e11208e915e8d059c8f0fe7651948ec"
+       },
+       {
+           "title": "UPPVÄRVNING med Molly Sandén",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmollysanden/media.mp3",
+           "checksum": "3dcd1cb8d9ebc9f5a8b65f8a611cad54"
+       },
+       {
+           "title": "#293: Annie Lööf",
+           "url": "https://media.acast.com/varvet/-293-annieloof/media.mp3",
+           "checksum": "4571da17d4b14a9ad6275268a13ea308"
+       },
+       {
+           "title": "UPPVÄRVNING med Annie Lööf",
+           "url": "https://media.acast.com/varvet/uppvarvningmedannieloof/media.mp3",
+           "checksum": "4b61830d567ecceed2f4b10e34d05dd0"
+       },
+       {
+           "title": "SPECIAL: Bill Skarsgård",
+           "url": "https://media.acast.com/varvet/special-billskarsgard/media.mp3",
+           "checksum": "3ab34067b2a8741d50f3ef2c4427e87f"
+       },
+       {
+           "title": "#292: David Lagercrantz",
+           "url": "https://media.acast.com/varvet/-292-davidlagercrantz/media.mp3",
+           "checksum": "801a9e9e96ed82a6d21fbd7cfd613580"
+       },
+       {
+           "title": "UPPVÄRVNING med David Lagercrantz",
+           "url": "https://media.acast.com/varvet/uppvarvningmeddavidlagercrantz/media.mp3",
+           "checksum": "507a14c5416e661779aaf97c6ba0074d"
+       },
+       {
+           "title": "#291: Kikki Danielsson",
+           "url": "https://media.acast.com/varvet/-291-kikkidanielsson/media.mp3",
+           "checksum": "5828369dfaf8a7fa5aec77bc99e4a390"
+       },
+       {
+           "title": "UPPVÄRVNING med Kikki Danielsson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedkikkidanielsson/media.mp3",
+           "checksum": "f0290d3d824b65b64d822b6f6a32ee4a"
+       },
+       {
+           "title": "INTERNATIONAL: #47 Jonathan Safran Foer",
+           "url": "https://media.acast.com/varvet/international-47jonathansafranfoer/media.mp3",
+           "checksum": "234c6ec0b8a7410894d291c9429cd84c"
+       },
+       {
+           "title": "#290: Johan Ulveson",
+           "url": "https://media.acast.com/varvet/-290-johanulveson/media.mp3",
+           "checksum": "cc07009d449d75482b05fe6aa2985cac"
+       },
+       {
+           "title": "UPPVÄRVNING med Johan Ulveson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedjohanulveson/media.mp3",
+           "checksum": "f4d4c9ff16d67cdd063306d15e43c066"
+       },
+       {
+           "title": "#289: Leo \"Kinesen\" Carmona",
+           "url": "https://media.acast.com/varvet/-289-leokinesencarmona/media.mp3",
+           "checksum": "3a7b3591360dfeb38ef932666e6c6f1a"
+       },
+       {
+           "title": "#288: Pernilla Wahlgren",
+           "url": "https://media.acast.com/varvet/-288-pernillawahlgren/media.mp3",
+           "checksum": "fa7b6fc3a491f30e48421cddf0fb4c93"
+       },
+       {
+           "title": "UPPVÄRVNING med Pernilla Wahlgren",
+           "url": "https://media.acast.com/varvet/uppvarvningmedpernillawahlgren/media.mp3",
+           "checksum": "15473accbfc4b40abfc5470427fd38ee"
+       },
+       {
+           "title": "#287: Krister Henriksson",
+           "url": "https://media.acast.com/varvet/-287-kristerhenriksson/media.mp3",
+           "checksum": "c1d8528d6ae2c2f4b294d6dfeacec367"
+       },
+       {
+           "title": "UPPVÄRVNING med Krister Henriksson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedkristerhenriksson/media.mp3",
+           "checksum": "1b7a084d14792f676ae46b348c362982"
+       },
+       {
+           "title": "#286: STOR",
+           "url": "https://media.acast.com/varvet/-286-stor/media.mp3",
+           "checksum": "3cea8aff33d5caa1e70c6edb21fb0c82"
+       },
+       {
+           "title": "UPPVÄRVNING med STOR",
+           "url": "https://media.acast.com/varvet/uppvarvningmedstor/media.mp3",
+           "checksum": "291be0468b176f946af55ab9e2ffbb62"
+       },
+       {
+           "title": "#285: Charlotte Kalla",
+           "url": "https://media.acast.com/varvet/-285-charlottekalla/media.mp3",
+           "checksum": "32dbb6b2efedd6775dbf745da4217797"
+       },
+       {
+           "title": "RV11: Ernst Kirchsteiger",
+           "url": "https://media.acast.com/varvet/revarvet-11-ernstkirchsteiger/media.mp3",
+           "checksum": "84b2cbde42eb061b31f48ad8beba6b14"
+       },
+       {
+           "title": "#284: Per Hagman",
+           "url": "https://media.acast.com/varvet/-284-perhagman/media.mp3",
+           "checksum": "9b3d1a6536dc1d523741a50126fef03f"
+       },
+       {
+           "title": "UPPVÄRVNING med Per Hagman",
+           "url": "https://media.acast.com/varvet/uppvarvningmedperhagman/media.mp3",
+           "checksum": "7d16cc3b4c323310676848648154c51d"
+       },
+       {
+           "title": "#283: Arja Saijonmaa",
+           "url": "https://media.acast.com/varvet/-283-arjasaijonmaa/media.mp3",
+           "checksum": "edaa93694cb2359e7ff569889f9d667f"
+       },
+       {
+           "title": "UPPVÄRVNING med Arja Saijonmaa",
+           "url": "https://media.acast.com/varvet/uppvarvningmedarjasaijonmaa/media.mp3",
+           "checksum": "473e16de25769007970d21408f9e95f8"
+       },
+       {
+           "title": "#282: Rickard Olsson",
+           "url": "https://media.acast.com/varvet/-282-rickardolsson/media.mp3",
+           "checksum": "b88582599224b8cc60ce889c389d9c1b"
+       },
+       {
+           "title": "UPPVÄRVNING med Rickard Olsson",
+           "url": "https://media.acast.com/varvet/uppvarvningmedrickardolsson/media.mp3",
+           "checksum": "9ead938fd915f586d8e2c7ec9424ab7b"
+       },
+       {
+           "title": "RV10: Alexander Bard",
+           "url": "https://media.acast.com/varvet/revarvet-10-alexanderbard/media.mp3",
+           "checksum": "1fca889ee013d17d7d71794ee471a462"
+       },
+       {
+           "title": "UPPVÄRVNING med Alexander Bard",
+           "url": "https://media.acast.com/varvet/uppvarvningmedalexanderbard/media.mp3",
+           "checksum": "c67058eb0683a989e54ccbb947c7a3b1"
+       },
+       {
+           "title": "#281: Malou von Sivers",
+           "url": "https://media.acast.com/varvet/-281-malouvonsivers/media.mp3",
+           "checksum": "d2ff86606214ca9f8e435d2af28aa650"
+       },
+       {
+           "title": "UPPVÄRVNING med Malou von Sivers",
+           "url": "https://media.acast.com/varvet/uppvarvningmedmalouvonsivers/media.mp3",
+           "checksum": "ced8efaa69e5e973f0e7bae195a8005b"
+       },
+       {
+           "title": "#280: Rikard Wolff",
+           "url": "https://media.acast.com/varvet/-280-rikardwolff/media.mp3",
+           "checksum": "78ca214bb837116bf1bb890d15454845"
+       },
+       {
+           "title": "UPPVÄRVNING med Rikard Wolff",
+           "url": "https://media.acast.com/varvet/uppvarvningmedrikardwolff/media.mp3",
+           "checksum": "dc9ab8d9548b5c0c7d92b99f43ef3cc8"
+       },
+       {
+           "title": "#279: Stefan Löfven",
+           "url": "https://media.acast.com/varvet/-279-stefanlofven/media.mp3",
+           "checksum": "2f0c41646abff20d79aecdae8ffcd14c"
+       },
+       {
+           "title": "#278: Therése Lindgren",
+           "url": "https://media.acast.com/varvet/-278-thereselindgren/media.mp3",
+           "checksum": "d0e5ac24f99a9bd69112def1cea19484"
+       },
+       {
+           "title": "UPPVÄRVNING med Therése Lindgren",
+           "url": "https://media.acast.com/varvet/uppvarvning/media.mp3",
+           "checksum": "0aec3e2e6d83492d6b23fd619ba9009b"
+       },
+       {
+           "title": "#277: Kim Källström",
+           "url": "https://media.acast.com/varvet/-277-kimkallstrom/media.mp3",
+           "checksum": "c842b06cc4bd4be2128b9ea18c27a6ba"
+       },
+       {
+           "title": "UPPVÄRVNING med Kim Källström",
+           "url": "https://media.acast.com/varvet/uppvarvningmedkimkallstrom/media.mp3",
+           "checksum": "8cb82e18b4520a490e0eb5e419920548"
+       },
+       {
+           "title": "#276: Camilla Kvartoft",
+           "url": "https://media.acast.com/varvet/-276-camillakvartoft/media.mp3",
+           "checksum": "b355363d90978fbd46ac615dfa2c534d"
+       },
+       {
+           "title": "UPPVÄRVNING med Camilla Kvartoft",
+           "url": "https://media.acast.com/varvet/uppvarvningenmedcamillakvartoft/media.mp3",
+           "checksum": "5b28336c4cc8649f244eb6ec62f2db85"
+       },
+       {
+           "title": "#275: Edward Blom",
+           "url": "https://media.acast.com/varvet/-275edwardblom/media.mp3",
+           "checksum": "2273bba26d2cb3949a76d8148e392a2d"
+       },
+       {
+           "title": "UPPVÄRVNING med Edward Blom",
+           "url": "https://media.acast.com/varvet/uppvarvningmededwardblom/media.mp3",
+           "checksum": "8354d24d6ea4d2261a3b8afac1fa0370"
+       },
+       {
+           "title": "RV9: Clara Henry",
+           "url": "https://media.acast.com/varvet/revarvet-9clarahenry/media.mp3",
+           "checksum": "d946842ca4e078d1e2d983485de8d97e"
+       },
+       {
+           "title": "UPPVÄRVNING med Clara Henry",
+           "url": "https://media.acast.com/varvet/uppvarvningmedclarahenry/media.mp3",
+           "checksum": "9502af78543bd77028d663a5217a7057"
+       },
+       {
+           "title": "#274: Per Andersson",
+           "url": "https://media.acast.com/varvet/-274-perandersson/media.mp3",
+           "checksum": "4c6ca85e20279ff94f1774b2dac283b7"
+       },
+       {
+           "title": "#273: Kalle Zackari Wahlström",
+           "url": "https://media.acast.com/varvet/-273-kallezackariwahlstrom/media.mp3",
+           "checksum": "7a2c1e452970b90629aa4987aded882b"
+       },
+       {
+           "title": "#272: Uje Brandelius",
+           "url": "https://media.acast.com/varvet/-272-ujebrandelius/media.mp3",
+           "checksum": "28930ea9654abeee1589aee19cb56a26"
+       },
+       {
+           "title": "#271: Camilla Läckberg",
+           "url": "https://media.acast.com/varvet/-271-camillalackberg/media.mp3",
+           "checksum": "cf8a7348a52c36d07d16cf7f75354114"
+       },
+       {
+           "title": "#270: Carolina Neurath",
+           "url": "https://media.acast.com/varvet/-270-carolinaneurath/media.mp3",
+           "checksum": "87147a7989195c79f39f16cb27a73e2a"
+       },
+       {
+           "title": "#269: Jonas Bonnier",
+           "url": "https://media.acast.com/varvet/-269-jonasbonnier/media.mp3",
+           "checksum": "135c786e082eab9ae4f41b86ceb8894d"
+       },
+       {
+           "title": "RV8: Nour El Refai",
+           "url": "https://media.acast.com/varvet/revarvet-8-nourelrefai/media.mp3",
+           "checksum": "6aa44916b9633c0a021c6265031d8fb4"
+       },
+       {
+           "title": "#268: Alexandra Pascalidou",
+           "url": "https://media.acast.com/varvet/-268-alexandrapascalidou/media.mp3",
+           "checksum": "5ddb981ed35dc6c519c5023dacb1dff6"
+       },
+       {
+           "title": "#267: Linnea Henriksson",
+           "url": "https://media.acast.com/varvet/-267-linneahenriksson/media.mp3",
+           "checksum": "e150bcab836b8462a63d03ca5f3d9ddf"
+       },
+       {
+           "title": "#266: Plura Jonsson",
+           "url": "https://media.acast.com/varvet/-266-plurajonsson/media.mp3",
+           "checksum": "698732063f1bfa0e308259abaa41dd74"
+       },
+       {
+           "title": "RV7: Laleh Pourkarim",
+           "url": "https://media.acast.com/varvet/revarvet-7-lalehpourkarim/media.mp3",
+           "checksum": "1aa28f450e03798e78c203d66c4e569d"
+       },
+       {
+           "title": "#264: Jens Lekman",
+           "url": "https://media.acast.com/varvet/-264-jenslekman/media.mp3",
+           "checksum": "6531bcf757b3c9d550796c221b898209"
+       },
+       {
+           "title": "#265: David Wiberg",
+           "url": "https://media.acast.com/varvet/-265-davidwiberg/media.mp3",
+           "checksum": "9b8e458bb46bad2cf390d3127ad96218"
+       },
+       {
+           "title": "#263: Little Jinder",
+           "url": "https://media.acast.com/varvet/-263-littlejinder/media.mp3",
+           "checksum": "23f6a3dd4e93bd1d000585168a56227e"
+       },
+       {
+           "title": "#262: Po Tidholm",
+           "url": "https://media.acast.com/varvet/-262-potidholm/media.mp3",
+           "checksum": "cc68caf8ad44f122f8340955401aea4b"
+       },
+       {
+           "title": "#261: Björn Kjellman",
+           "url": "https://media.acast.com/varvet/-261-bjornkjellman/media.mp3",
+           "checksum": "cab5d4744cbb4301966d112e1961dd32"
+       },
+       {
+           "title": "#260: Lilla Namo",
+           "url": "https://media.acast.com/varvet/-260-lillanamo/media.mp3",
+           "checksum": "8b6801f58776ae63c64400c389b98f34"
+       },
+       {
+           "title": "#259: Aliette Opheim",
+           "url": "https://media.acast.com/varvet/-259-alietteopheim/media.mp3",
+           "checksum": "3dd415904ff8e080927807c73dc03205"
+       },
+       {
+           "title": "RV6: Jason Diakité",
+           "url": "https://media.acast.com/varvet/revarvet-6-jasondiakite/media.mp3",
+           "checksum": "24d67b23bc6d0782c068689c0edd87e2"
+       },
+       {
+           "title": "#258: Måns Herngren",
+           "url": "https://media.acast.com/varvet/-258-mansherngren/media.mp3",
+           "checksum": "884646aabf5b92ec1589e9d3c811c7ee"
+       },
+       {
+           "title": "#257: Christer Fuglesang",
+           "url": "https://media.acast.com/varvet/-257-christerfuglesang/media.mp3",
+           "checksum": "18fa8e75f6ccc0f25c1023313c331c36"
+       },
+       {
+           "title": "#256: Martina Haag",
+           "url": "https://media.acast.com/varvet/-256-martinahaag/media.mp3",
+           "checksum": "088e6f80c71d23467018a8e93fdaeef5"
+       },
+       {
+           "title": "#255: Stina Wirsén",
+           "url": "https://media.acast.com/varvet/-255-stinawirsen/media.mp3",
+           "checksum": "e07cd55740c51630e346fa6ae3b7d838"
+       },
+       {
+           "title": "#254: Peter LeMarc",
+           "url": "https://media.acast.com/varvet/-254-peterlemarc/media.mp3",
+           "checksum": "1417706d13f45dd9d445295e176d77ae"
+       },
+       {
+           "title": "#253: Robert Gustafsson",
+           "url": "https://media.acast.com/varvet/-253-robertgustafsson/media.mp3",
+           "checksum": "2269449c8729a6e3a0178866ba391c3c"
+       },
+       {
+           "title": "RV5: Henrik Schyffert",
+           "url": "https://media.acast.com/varvet/revarvet-5-henrikschyffert/media.mp3",
+           "checksum": "64fb143876b355f48b2106ab1cff11fe"
+       },
+       {
+           "title": "#252: Joel Spira",
+           "url": "https://media.acast.com/varvet/-252-joelspira/media.mp3",
+           "checksum": "3c5abc1760effe6a7eb190aff70f8a2a"
+       },
+       {
+           "title": "#251: Anitha Schulman",
+           "url": "https://media.acast.com/varvet/-251-anithaschulman/media.mp3",
+           "checksum": "bc204bbc2a80ab5611a686a0903a850d"
+       },
+       {
+           "title": "#250: Anders Jansson",
+           "url": "https://media.acast.com/varvet/-250-andersjansson/media.mp3",
+           "checksum": "a608202eda5265a2fa1890b88e1cb110"
+       },
+       {
+           "title": "#249: Renata Chlumska",
+           "url": "https://media.acast.com/varvet/-249-renatachlumska/media.mp3",
+           "checksum": "fd69fd99aef4bc96ca80c45bdaf506ab"
+       },
+       {
+           "title": "#248: Christer Lindarw",
+           "url": "https://media.acast.com/varvet/-248-christerlindarw/media.mp3",
+           "checksum": "21a1273b4c2457d3323b18ca78d07acb"
+       },
+       {
+           "title": "#247: Rachel “Yogagirl” Bråthén",
+           "url": "https://media.acast.com/varvet/-247-rachel-yogagirl-brathen/media.mp3",
+           "checksum": "5b51d690daa92d32dfa01557deb17537"
+       },
+       {
+           "title": "RV4: Eva Dahlgren",
+           "url": "https://media.acast.com/varvet/revarvet-4-evadahlgren/media.mp3",
+           "checksum": "48f11e9073b7aa54c0a34f466e08d56d"
+       },
+       {
+           "title": "#246: Fredrik Eklund",
+           "url": "https://media.acast.com/varvet/-246-fredrikeklund/media.mp3",
+           "checksum": "e0f1b0164899140d9be25ea37bf31945"
+       },
+       {
+           "title": "#245: Alexandra “Kissie” Nilsson",
+           "url": "https://media.acast.com/varvet/-245-alexandra-kissie-nilsson/media.mp3",
+           "checksum": "55ef4f26e67d06e22eaf0bd81f41d84a"
+       },
+       {
+           "title": "#244: Pernilla August",
+           "url": "https://media.acast.com/varvet/-244-pernillaaugust/media.mp3",
+           "checksum": "26469b464b86204b0060f7c0fd426c3c"
+       },
+       {
+           "title": "#243: Magnus Nilsson",
+           "url": "https://media.acast.com/varvet/-243-magnusnilsson/media.mp3",
+           "checksum": "2b6aefb72ecb78d167618a390ab7536c"
+       },
+       {
+           "title": "RV3: Petra Mede",
+           "url": "https://media.acast.com/varvet/revarvet-3-petramede/media.mp3",
+           "checksum": "4de50b64c51d13ab3e662bafeee84ecb"
+       },
+       {
+           "title": "#242: Linda \"Miss Li\" Karlsson",
+           "url": "https://media.acast.com/varvet/-242-lindamisslikarlsson/media.mp3",
+           "checksum": "db7c522123b7dc416fd428c7f994748e"
+       },
+       {
+           "title": "#241: Sanna Lundell",
+           "url": "https://media.acast.com/varvet/-241-sannalundell/media.mp3",
+           "checksum": "83ddec6fe7889daea9b07083114d1de0"
+       },
+       {
+           "title": "#240: Sebastien Boudet",
+           "url": "https://media.acast.com/varvet/-240-sebastienboudet/media.mp3",
+           "checksum": "f848d4936079c2dac6a53962bc58ab7f"
+       },
+       {
+           "title": "#239: Dominika Peczynski",
+           "url": "https://media.acast.com/varvet/-239-dominikapeczynski/media.mp3",
+           "checksum": "31147a9a97e9f9e995cd3e59a4d782cf"
+       },
+       {
+           "title": "#238: Rickard Söderberg",
+           "url": "https://media.acast.com/varvet/-238-rickardsoderberg/media.mp3",
+           "checksum": "a86628166c3900f42e463a7529f2b476"
+       },
+       {
+           "title": "RV2: Isabella Löwengrip",
+           "url": "https://media.acast.com/varvet/revarvet-2-isabellalowengrip/media.mp3",
+           "checksum": "b6232db91c3d58d76f4128682fa6ead0"
+       },
+       {
+           "title": "#237: Rebecca Scheja & Fiona Fitzpatrick",
+           "url": "https://media.acast.com/varvet/-237-rebeccascheja-fionafitzpatrick/media.mp3",
+           "checksum": "5a7b8798bf1c8b04787b35adb1cd4f42"
+       },
+       {
+           "title": "#236: Roy Fares",
+           "url": "https://media.acast.com/varvet/-236-royfares/media.mp3",
+           "checksum": "c256da073323a2ed10916a0dd53671e5"
+       },
+       {
+           "title": "#235: Miriam Bryant",
+           "url": "https://media.acast.com/varvet/-235-miriambryant/media.mp3",
+           "checksum": "5c96ab9ab858234c4c47658edc3fb0d0"
+       },
+       {
+           "title": "#234: Thomas “Orup” Eriksson",
+           "url": "https://media.acast.com/varvet/-234-thomas-orup-eriksson/media.mp3",
+           "checksum": "037b870e7a01e5de8ad6324a118d8dd1"
+       },
+       {
+           "title": "#233: Silvana Imam",
+           "url": "https://media.acast.com/varvet/-233-silvanaimam/media.mp3",
+           "checksum": "c51a3d24e326faab5ceeda9959c0cf37"
+       },
+       {
+           "title": "RV1: Soran Ismail",
+           "url": "https://media.acast.com/varvet/revarvet-1-soranismail/media.mp3",
+           "checksum": "0c67c5ba38b915a71edb0e38feba3f25"
+       },
+       {
+           "title": "#232: Matias Varela",
+           "url": "https://media.acast.com/varvet/-232-matiasvarela/media.mp3",
+           "checksum": "18f8b51ab80d54f6abccadd0b1bc26d6"
+       },
+       {
+           "title": "#231: Marie-Louise Ekman",
+           "url": "https://media.acast.com/varvet/-231-marie-louiseekman/media.mp3",
+           "checksum": "6f809d88002c1f34100bf6eeb6801797"
+       },
+       {
+           "title": "#230: Björn Gustafsson",
+           "url": "https://media.acast.com/varvet/-230-bjorngustafsson/media.mp3",
+           "checksum": "8a7eb194ca962db99be1409c60413b57"
+       },
+       {
+           "title": "#229: Carina Bergfeldt",
+           "url": "https://media.acast.com/varvet/-229-carinabergfeldt/media.mp3",
+           "checksum": "176b0a25d03ca3bae0ae5498f522144a"
+       },
+       {
+           "title": "#228: Robert Pettersson",
+           "url": "https://media.acast.com/varvet/-228-robertpettersson/media.mp3",
+           "checksum": "db7cac1b1b30eaa1bb6e1775baedb1ad"
+       },
+       {
+           "title": "#227: Alexander \"The Mauler\" Gustafsson",
+           "url": "https://media.acast.com/varvet/-227-alexanderthemaulergustafsson/media.mp3",
+           "checksum": "a012bfda4a5917ca2180de437294f69e"
+       },
+       {
+           "title": "#226: Veronica Maggio",
+           "url": "https://media.acast.com/varvet/-226-veronicamaggio/media.mp3",
+           "checksum": "1e7811263bc1c2ef8cab95a51788a4cd"
+       },
+       {
+           "title": "#225: Johanna Frändén",
+           "url": "https://media.acast.com/varvet/-225-johannafranden/media.mp3",
+           "checksum": "39bd9dc1ae5f952bd138d5e2ac0d3ce2"
+       },
+       {
+           "title": "#224 Sven-Bertil Taube",
+           "url": "https://media.acast.com/varvet/-224sven-bertiltaube/media.mp3",
+           "checksum": "36d7be205523c9961302a06406d61d21"
+       },
+       {
+           "title": "#223: Thomas Rusiak",
+           "url": "https://media.acast.com/varvet/-223thomasrusiak/media.mp3",
+           "checksum": "6c0ea5bc712cc4eeb2d981358df82e70"
+       },
+       {
+           "title": "#222: Amy Deasismont",
+           "url": "https://media.acast.com/varvet/-222/media.mp3",
+           "checksum": "2ace20f3a112c0e2d01297be9cb40341"
+       },
+       {
+           "title": "#221: Carl-Johan Vallgren",
+           "url": "https://media.acast.com/varvet/-221carl-johanvallgren/media.mp3",
+           "checksum": "3ad54312167fca440898b3732af96f20"
+       },
+       {
+           "title": "#220: Jenny Strömstedt",
+           "url": "https://media.acast.com/varvet/-220-jennystromstedt/media.mp3",
+           "checksum": "5225634ed09ebddde80d30f100e8764d"
+       },
+       {
+           "title": "#219: Elaine Eksvärd",
+           "url": "https://media.acast.com/varvet/-219elaineeksvard/media.mp3",
+           "checksum": "0e743a966c1e69df767e5d8394c92471"
+       },
+       {
+           "title": "MUSIKHJÄLPEN-SPECIAL: Karin Hallgren",
+           "url": "https://media.acast.com/varvet/musikhjalpen-special-karinhallgren/media.mp3",
+           "checksum": "6a6c91ccf45dc4568562ce63594808b7"
+       },
+       {
+           "title": "#218: Andres Lokko",
+           "url": "https://media.acast.com/varvet/-218-andreslokko/media.mp3",
+           "checksum": "694a6bb9bb1053471c7fe352c791ed1b"
+       },
+       {
+           "title": "#217: Marie Göranzon",
+           "url": "https://media.acast.com/varvet/-217-mariegoranzon/media.mp3",
+           "checksum": "77e5c5002bb58709941b29f0fd5be7cc"
+       },
+       {
+           "title": "#216: Joel Alme",
+           "url": "https://media.acast.com/varvet/-216-joelalme/media.mp3",
+           "checksum": "6e962a9894c491c9bb236737882358bf"
+       },
+       {
+           "title": "#215: Barbro \"Lill-Babs\" Svensson",
+           "url": "https://media.acast.com/varvet/-215-barbrolill-babssvensson/media.mp3",
+           "checksum": "569f3eecd406ce7f901f640028b9a47d"
+       },
+       {
+           "title": "#214: Hannah Widell",
+           "url": "https://media.acast.com/varvet/-214-hannahwidell/media.mp3",
+           "checksum": "2c1508d8fef29231124591bc4e9e14fb"
+       },
+       {
+           "title": "#213: Rolf Lassgård",
+           "url": "https://media.acast.com/varvet/-213-rolflassgard/media.mp3",
+           "checksum": "b287094b69e518c8ec26ee49cd59ed82"
+       },
+       {
+           "title": "#212: Björn Ulvaeus",
+           "url": "https://media.acast.com/varvet/-212-bjornulvaeus/media.mp3",
+           "checksum": "055ce272c15460475f05f4b8d9d9bc31"
+       },
+       {
+           "title": "#211: Mikael Persbrandt",
+           "url": "https://media.acast.com/varvet/-211-mikaelpersbrandt/media.mp3",
+           "checksum": "d9f06c0b21179a86fc5a7e97bdfb9556"
+       },
+       {
+           "title": "#210: Annika Östberg",
+           "url": "https://media.acast.com/varvet/-210annikaostberg/media.mp3",
+           "checksum": "d6eb3729649dfddd53dd5276920f542a"
+       },
+       {
+           "title": "#209: Fredrik Skavlan",
+           "url": "https://media.acast.com/varvet/-210fredrikskavlan/media.mp3",
+           "checksum": "1f8cad9848daa3e8c5dc800aee8ed43b"
+       },
+       {
+           "title": "VERKET #5: Ann Heberlein - Mina två liv",
+           "url": "https://media.acast.com/varvet/verket-5-annaheberlein-minatvaliv/media.mp3",
+           "checksum": "3f15b89ca4715a7d8e2ccad5a1b2a7ae"
+       },
+       {
+           "title": "#208: Johan Lindeberg",
+           "url": "https://media.acast.com/varvet/-208-johanlindeberg/media.mp3",
+           "checksum": "68606cfc0b7a9d4c321f59bf782418d9"
+       },
+       {
+           "title": "#207: Marit Bergman",
+           "url": "https://media.acast.com/varvet/-207-maritbergman/media.mp3",
+           "checksum": "2ae6fc2ea23ff43ba711ec260c6f5e4b"
+       },
+       {
+           "title": "#206: David Dencik",
+           "url": "https://media.acast.com/varvet/-206-daviddencik/media.mp3",
+           "checksum": "0d27030d06a1e90772c956b87864a789"
+       },
+       {
+           "title": "#205: Mats Qviberg",
+           "url": "https://media.acast.com/varvet/-205-matsqviberg/media.mp3",
+           "checksum": "c7640b662d44bbdaa9be90e1510756a1"
+       },
+       {
+           "title": "#204: Lena Philipsson",
+           "url": "https://media.acast.com/varvet/-204-lenaphilipsson/media.mp3",
+           "checksum": "d56f8184dd62cbc258d578458601b754"
+       },
+       {
+           "title": "VERKET #4: Olof Wretling - Vinter i P1",
+           "url": "https://media.acast.com/varvet/verket-4-olofwretling-vinterip1/media.mp3",
+           "checksum": "a906f9da6eabc399e8eff12376c64c3c"
+       },
+       {
+           "title": "#203: John Ajvide Lindqvist",
+           "url": "https://media.acast.com/varvet/-203-johnajvidelindqvist/media.mp3",
+           "checksum": "f9a42225dabccfe839278cb2f85c3c48"
+       },
+       {
+           "title": "#202: Tina Nordström",
+           "url": "https://media.acast.com/varvet/-202-tinanordstrom/media.mp3",
+           "checksum": "95f69d0ab45645bd8e79ccc27d248794"
+       },
+       {
+           "title": "#201: Tove Lo",
+           "url": "https://media.acast.com/varvet/-201-tovelo/media.mp3",
+           "checksum": "062012e217ddaed47180ac46d7ad9dc1"
+       },
+       {
+           "title": "#200: Annika Norlin",
+           "url": "https://media.acast.com/varvet/-200-annikanorlin/media.mp3",
+           "checksum": "124af72fc1d2b43d7e9525ad60bd93c6"
+       },
+       {
+           "title": "VERKET #3: Sean Banan - Copacabanana",
+           "url": "https://media.acast.com/varvet/verket-3-seanbanan-copacabanana/media.mp3",
+           "checksum": "21f3b818a066c85fab7d7da7c1d4b964"
+       },
+       {
+           "title": "#199: Helena Bergström",
+           "url": "https://media.acast.com/varvet/-199-helenabergstrom/media.mp3",
+           "checksum": "ef735ddcec0bf8579e9866591acde24a"
+       },
+       {
+           "title": "#198: Tilde De Paula Eby",
+           "url": "https://media.acast.com/varvet/-198-tildedepaulaeby/media.mp3",
+           "checksum": "de178d5c1e07bf1e5c3fbaca4c3ed1da"
+       },
+       {
+           "title": "#197: Darin Zanyar",
+           "url": "https://media.acast.com/varvet/-197-darinzanyar/media.mp3",
+           "checksum": "756d2e165cb7a808b265e5cd3c3f19a9"
+       },
+       {
+           "title": "#196: Björn Skifs",
+           "url": "https://media.acast.com/varvet/-196-bjornskifs/media.mp3",
+           "checksum": "4e305033a5a27a71a14313c3a5637a58"
+       },
+       {
+           "title": "VERKET #2: Alex Schulman – Skynda att älska",
+           "url": "https://media.acast.com/varvet/verket-2-alexschulman-skyndaattalska/media.mp3",
+           "checksum": "7c4d916a1b958b1dbbd3a66a5406372e"
+       },
+       {
+           "title": "#195: Anna Ternheim",
+           "url": "https://media.acast.com/varvet/-195-annaternheim/media.mp3",
+           "checksum": "45f22cf45b1238a9a5dffa1d670aee65"
+       },
+       {
+           "title": "#194: Clara Henry",
+           "url": "https://media.acast.com/varvet/-194-clarahenry/media.mp3",
+           "checksum": "740c3cd7ac8743639e6ae64b6ba5f0c5"
+       },
+       {
+           "title": "#193: Jocke Åhlund",
+           "url": "https://media.acast.com/varvet/-193-jockeahlund/media.mp3",
+           "checksum": "97124d26a05957d44e6a1d98b2ce9910"
+       },
+       {
+           "title": "#192: Tomas von Brömssen",
+           "url": "https://media.acast.com/varvet/-192-tomasvonbromssen/media.mp3",
+           "checksum": "68496b425d2bf4290cc18c3700996ad4"
+       },
+       {
+           "title": "#191: Alice Bah Kuhnke",
+           "url": "https://media.acast.com/varvet/-191-alicebahkuhnke/media.mp3",
+           "checksum": "81b8dfc58d78cc3671794335758ad2db"
+       },
+       {
+           "title": "VERKET #1: Åsne Seierstad - En av oss",
+           "url": "https://media.acast.com/varvet/verket-1-asneseierstad-enavoss/media.mp3",
+           "checksum": "41e1a37751d10762c1e6aa963a23271a"
+       },
+       {
+           "title": "#190: Jerry Williams",
+           "url": "https://media.acast.com/varvet/-190-jerrywilliams/media.mp3",
+           "checksum": "a6d5a9f50d23eab134b444d5e07c4257"
+       },
+       {
+           "title": "#189: Patrik ’DJ Sleepy’ Elofsson",
+           "url": "https://media.acast.com/varvet/-189-patrik-djsleepy-elofsson/media.mp3",
+           "checksum": "387db30aaf4654655806ce83b8acc33c"
+       },
+       {
+           "title": "#188: Gunilla Bergström",
+           "url": "https://media.acast.com/varvet/-188-gunillabergstrom/media.mp3",
+           "checksum": "20b6bf80f42729b711034671b1dc30ed"
+       },
+       {
+           "title": "#187: Anna Serner",
+           "url": "https://media.acast.com/varvet/-187-annaserner/media.mp3",
+           "checksum": "bb34dc9ffeff3024abf59c0f93a9906f"
+       },
+       {
+           "title": "#186: Maria Lundqvist",
+           "url": "https://media.acast.com/varvet/-186-marialundqvist/media.mp3",
+           "checksum": "24d2965fac7bb337ec62497e15f4b1e3"
+       },
+       {
+           "title": "#185: Jonathan Johansson",
+           "url": "https://media.acast.com/varvet/-185-jonathanjohansson/media.mp3",
+           "checksum": "a858c4b7881ae3317935ab6c3cc80a8b"
+       },
+       {
+           "title": "INTERNATIONAL: #32 Noel Gallagher",
+           "url": "https://media.acast.com/varvet/international-32noelgallagher/media.mp3",
+           "checksum": "559e325b79413bb89b89ec8a30d4f983"
+       },
+       {
+           "title": "#184: Antonia Ax:son Johnson",
+           "url": "https://media.acast.com/varvet/-184-antoniaax-sonjohnson/media.mp3",
+           "checksum": "480db9638ca82582fe775b429dff08f6"
+       },
+       {
+           "title": "#183: Danny Saucedo",
+           "url": "https://media.acast.com/varvet/-183-dannysaucedo/media.mp3",
+           "checksum": "7eab7510583292878056249829104bf1"
+       },
+       {
+           "title": "#182: Stefan Einhorn",
+           "url": "https://media.acast.com/varvet/-182-stefaneinhorn/media.mp3",
+           "checksum": "3568035f3869fe28905182c7c0ba0184"
+       },
+       {
+           "title": "#181: Elisabet Höglund",
+           "url": "https://media.acast.com/varvet/-181-elisabethoglund/media.mp3",
+           "checksum": "2bb851b27845e95fefe0e32170581cd8"
+       },
+       {
+           "title": "#180: Love Antell",
+           "url": "https://media.acast.com/varvet/-180-loveantell/media.mp3",
+           "checksum": "bafd66504ccf9a56ff53fba51fe0b65b"
+       },
+       {
+           "title": "#179: Mattias Alkberg",
+           "url": "https://media.acast.com/varvet/-179-mattiasalkberg/media.mp3",
+           "checksum": "a3b0d570c8a322bc5d549242f4321fd3"
+       },
+       {
+           "title": "VÄRVET #178: Lars Winnerbäck/Bianca Kronlöf (treårsjubileum!)",
+           "url": "https://media.acast.com/varvet/varvet-178-larswinnerback-biancakronlof-trearsjubileum-/media.mp3",
+           "checksum": "d30c240f0c971c09d6fff5ef98b31451"
+       },
+       {
+           "title": "#177: Gina Dirawi",
+           "url": "https://media.acast.com/varvet/-177-ginadirawi/media.mp3",
+           "checksum": "8a766168068745b89a72dff009d54818"
+       },
+       {
+           "title": "#176: Eric Saade",
+           "url": "https://media.acast.com/varvet/-176-ericsaade/media.mp3",
+           "checksum": "f81289a970c5961d6c5dd2c23427aab7"
+       },
+       {
+           "title": "#175: Shanta Liora",
+           "url": "https://media.acast.com/varvet/-175-shantaliora/media.mp3",
+           "checksum": "ad56902681a042fd1517f48c363dc5ee"
+       },
+       {
+           "title": "#174: Leila Lindholm",
+           "url": "https://media.acast.com/varvet/-174-leilalindholm/media.mp3",
+           "checksum": "2582f3f45eb3657c3e7a4c4e45566294"
+       },
+       {
+           "title": "#173: Lisa Ekdahl",
+           "url": "https://media.acast.com/varvet/-173-lisaekdahl/media.mp3",
+           "checksum": "d54bbeb1f502aab8f9f58e00d4324574"
+       },
+       {
+           "title": "#172: Niklas Ekstedt",
+           "url": "https://media.acast.com/varvet/-172-niklasekstedt/media.mp3",
+           "checksum": "8291e6e01f9ea0ced7ed118e0c243c68"
+       },
+       {
+           "title": "SPECIAL: Livia Fränkel",
+           "url": "https://media.acast.com/varvet/special-liviafrankel/media.mp3",
+           "checksum": "75b9908b1f4f7e6bab0e674f4043043a"
+       },
+       {
+           "title": "#171: Johannes Brost",
+           "url": "https://media.acast.com/varvet/-171-johannesbrost/media.mp3",
+           "checksum": "a4ce61a7897af0bb2e0d9735ba085ecd"
+       },
+       {
+           "title": "#170: Seinabo Sey",
+           "url": "https://media.acast.com/varvet/-170-seinabosey/media.mp3",
+           "checksum": "e914bcfc9a827a4f0a2881ce4f915357"
+       },
+       {
+           "title": "INTERNATIONAL: #24 Bill Maher",
+           "url": "https://media.acast.com/varvet/international-24-bill-maher/media.mp3",
+           "checksum": "d5b40bf5cf94ad98b160a9b7a7054b36"
+       },
+       {
+           "title": "#169: Björn Ranelid",
+           "url": "https://media.acast.com/varvet/169-bj-rn-ranelid/media.mp3",
+           "checksum": "d14b3498f8151c4025f41b30cf70e049"
+       },
+       {
+           "title": "#168: Henrik Dorsin",
+           "url": "https://media.acast.com/varvet/168-henrik-dorsin/media.mp3",
+           "checksum": "d6a6e8599ae88504ce8e9dc0aeb6bc4d"
+       },
+       {
+           "title": "INTERNATIONAL: #23 Greg Poehler",
+           "url": "https://media.acast.com/varvet/international-23-greg-poehler/media.mp3",
+           "checksum": "3f3fdbd30252179e97ef731499f8a336"
+       },
+       {
+           "title": "#167: Anneli Alhanko",
+           "url": "https://media.acast.com/varvet/167-anneli-alhanko/media.mp3",
+           "checksum": "1e111376dbb6a7a3195a71141914b99c"
+       },
+       {
+           "title": "#166: Linda Pira",
+           "url": "https://media.acast.com/varvet/166-linda-pira/media.mp3",
+           "checksum": "5b0391d08c3c20abe9ada4bf032a8fdd"
+       },
+       {
+           "title": "#165: Michael Nyqvist",
+           "url": "https://media.acast.com/varvet/165-michael-nyqvist/media.mp3",
+           "checksum": "c57437105492f47e7e405149e7bea610"
+       },
+       {
+           "title": "#164: Mårten ’Promoe’ Edh",
+           "url": "https://media.acast.com/varvet/164-m-rten-promoe-edh/media.mp3",
+           "checksum": "668f56f94418940fb8e551d541dc72fe"
+       },
+       {
+           "title": "#163: Molly Sandén",
+           "url": "https://media.acast.com/varvet/163-molly-sand-n/media.mp3",
+           "checksum": "a513e6b0630afef39203635175248c15"
+       },
+       {
+           "title": "#162: AK von Malmborg",
+           "url": "https://media.acast.com/varvet/162-ak-von-malmborg/media.mp3",
+           "checksum": "cbbc0ac45ab666de979bc17cc8d9aa67"
+       },
+       {
+           "title": "#161: Per Sinding-Larsen",
+           "url": "https://media.acast.com/varvet/161-per-sinding-larsen/media.mp3",
+           "checksum": "92e979b0b671e4791f3181f18e471c59"
+       },
+       {
+           "title": "#160: Lasse Åberg",
+           "url": "https://media.acast.com/varvet/160-lasse-berg/media.mp3",
+           "checksum": "457992ac33fa5f4f5900ca5f4f40ca3c"
+       },
+       {
+           "title": "#159: Louise Boije af Gennäs",
+           "url": "https://media.acast.com/varvet/159-louise-boije-af-genn-s/media.mp3",
+           "checksum": "6b878bb0c5cc272ae0cd19b719847d3c"
+       },
+       {
+           "title": "#158: Magnus Härenstam",
+           "url": "https://media.acast.com/varvet/158-magnus-h-renstam/media.mp3",
+           "checksum": "43f6632a4f56f9ee5bb57cd84efb5123"
+       },
+       {
+           "title": "#157: Lena Andersson",
+           "url": "https://media.acast.com/varvet/157-lena-andersson/media.mp3",
+           "checksum": "6d6418864dacf87941a9f27e451f985f"
+       },
+       {
+           "title": "#156: Thorsten Flinck",
+           "url": "https://media.acast.com/varvet/156-thorsten-flinck/media.mp3",
+           "checksum": "f020ee46850b4add596bb6dd1d18e831"
+       },
+       {
+           "title": "#155: Klas Östergren",
+           "url": "https://media.acast.com/varvet/155-klas-stergren/media.mp3",
+           "checksum": "0927e8e18b755d43148d21b92e651212"
+       },
+       {
+           "title": "#154: Amelia Adamo",
+           "url": "https://media.acast.com/varvet/154-amelia-adamo/media.mp3",
+           "checksum": "2703dd161a47664a991063add3f3c038"
+       },
+       {
+           "title": "#153: Åsa Larsson",
+           "url": "https://media.acast.com/varvet/153-sa-larsson/media.mp3",
+           "checksum": "3bb31e54a8186287929d04e4729537a6"
+       },
+       {
+           "title": "#152: Laleh",
+           "url": "https://media.acast.com/varvet/152-laleh/media.mp3",
+           "checksum": "e13ee18d09fd1cc7241cbfb533a90f8b"
+       },
+       {
+           "title": "#151: Charlotte Perrelli",
+           "url": "https://media.acast.com/varvet/31887234-3366-4d3b-bb25-1e7fa2fb61aa/media.mp3",
+           "checksum": "4a3276d1b013b19af566a3c7fe11fda1"
+       },
+       {
+           "title": "#150: Per Holknekt",
+           "url": "https://media.acast.com/varvet/992228e7-afdd-4ee3-a63c-f7507781bba7/media.mp3",
+           "checksum": "0754ebf0a428cdca1eba96010755e88d"
+       },
+       {
+           "title": "#149: Amanda Schulman",
+           "url": "https://media.acast.com/varvet/f816246f-a492-4a7d-817b-bbf2d256da29/media.mp3",
+           "checksum": "14ed1850a30bfa31167705c3c20584a9"
+       },
+       {
+           "title": "#148: Suzanne Osten",
+           "url": "https://media.acast.com/varvet/b8fb6256-180a-4435-b159-00b05a263163/media.mp3",
+           "checksum": "eda542d5d45be86d873d51afdc455007"
+       },
+       {
+           "title": "#147: Daniel Adams-Ray",
+           "url": "https://media.acast.com/varvet/30fb4a2b-479e-4298-8da7-22f2baeb5e4f/media.mp3",
+           "checksum": "c57dc4a3a2276a2cf49fbc7dcadf5777"
+       },
+       {
+           "title": "#146: Isabella Löwengrip",
+           "url": "https://media.acast.com/varvet/5583205b-795f-4da6-9d9a-e797c76387d3/media.mp3",
+           "checksum": "816f5725f0b8084be61fb841ab812726"
+       },
+       {
+           "title": "#145: Staffan Westerberg",
+           "url": "https://media.acast.com/varvet/0593d8db-457b-4235-93ea-48906813d01d/media.mp3",
+           "checksum": "90010ad340269bd085dc431dd97124b3"
+       },
+       {
+           "title": "#144: Titiyo",
+           "url": "https://media.acast.com/varvet/26f949aa-8635-424c-8c7e-aba817f64430/media.mp3",
+           "checksum": "db29c9fb515f2f26e9e49c55567c1a66"
+       },
+       {
+           "title": "#143: Peter Settman",
+           "url": "https://media.acast.com/varvet/cb7d80f1-7063-4bea-9279-fd0ade505488/media.mp3",
+           "checksum": "bb18687a665e9b3fe89cbb4b895fd392"
+       },
+       {
+           "title": "#142: Ken Ring",
+           "url": "https://media.acast.com/varvet/99961a04-9293-4fb3-b3fa-a016a796d712/media.mp3",
+           "checksum": "a753b91e34f261f583dbde4d72c3d0a3"
+       },
+       {
+           "title": "#141: Eva Dahlgren",
+           "url": "https://media.acast.com/varvet/a82d806b-31b7-474a-8632-73f4bef32d00/media.mp3",
+           "checksum": "7cc02ed27c12220b06293d7a1c75c13a"
+       },
+       {
+           "title": "#140: Bea Åkerlund",
+           "url": "https://media.acast.com/varvet/45e9710d-5616-4c46-a478-02c85adbd385/media.mp3",
+           "checksum": "169d2fd1b989d8dfbf55d2df2b092476"
+       },
+       {
+           "title": "#139: Barbro Lindgren",
+           "url": "https://media.acast.com/varvet/5732c213-a1f3-4718-89bd-d2186af06954/media.mp3",
+           "checksum": "f85070df14291426f54cd10669e5d47c"
+       },
+       {
+           "title": "#138: Filippa Reinfeldt",
+           "url": "https://media.acast.com/varvet/51ed6ddd-9886-4ad7-9404-92309de7da5f/media.mp3",
+           "checksum": "79d2132dcbbf109ecb465a7e96e1bc1e"
+       },
+       {
+           "title": "#137: Ruben Östlund",
+           "url": "https://media.acast.com/varvet/9e3f5da5-2c0c-4ed8-9b0b-518f91a4c8c9/media.mp3",
+           "checksum": "9184d1104991d80499b126e019e28ed9"
+       },
+       {
+           "title": "#136: Camilla Henemark",
+           "url": "https://media.acast.com/varvet/932d3151-18dc-4ccf-b2da-cc4dea6d4d9e/media.mp3",
+           "checksum": "493a503c51eefdd6f7dd7cf9c135193c"
+       },
+       {
+           "title": "#135: Mathias Dahlgren",
+           "url": "https://media.acast.com/varvet/f08dda16-0201-4a59-a25b-9a67b8e4fdf2/media.mp3",
+           "checksum": "0fc8233aaf39141052c65c3ab765eb1b"
+       },
+       {
+           "title": "#134: Anders Wendin",
+           "url": "https://media.acast.com/varvet/5e257a35-99c6-4a58-8cfd-8ed91ae014f7/media.mp3",
+           "checksum": "114fe81ad1dd0dbf720bad0365ab7d6b"
+       },
+       {
+           "title": "#133: Bea Szenfeld",
+           "url": "https://media.acast.com/varvet/6206994e-eb66-4df2-a522-a09ce8d55e6b/media.mp3",
+           "checksum": "35d5ba865ac70a69157e0fcdb71ba827"
+       },
+       {
+           "title": "#132: Dennis Lyxzén",
+           "url": "https://media.acast.com/varvet/fe5f3141-95b4-454c-ada4-3413f35a25d3/media.mp3",
+           "checksum": "29982660b4a595d6706ca4f6b194d9e2"
+       },
+       {
+           "title": "#131: Måns Zelmerlöw",
+           "url": "https://media.acast.com/varvet/efd8bc98-3b35-4661-a7a1-b73cc085de1b/media.mp3",
+           "checksum": "3c1b7d0da9cf3434f9fcc7a6a032c4ec"
+       },
+       {
+           "title": "#130: Kerstin Brunnberg",
+           "url": "https://media.acast.com/varvet/e62a0b4d-924c-4f83-8e78-868607810535/media.mp3",
+           "checksum": "a90907ed6028b498679085a789b8e967"
+       },
+       {
+           "title": "#129: Marcus Birro",
+           "url": "https://media.acast.com/varvet/62e10445-b230-4a3e-a56d-ede5caf604c5/media.mp3",
+           "checksum": "af81d842a70d98e069bb3b48ed2f9be6"
+       },
+       {
+           "title": "#128: Åsa Linderborg",
+           "url": "https://media.acast.com/varvet/268c0dbb-051f-4e39-ba3b-e5c299882d00/media.mp3",
+           "checksum": "008117810604f3f9b8c54c37edb3bd5c"
+       },
+       {
+           "title": "#127: Lars Lerin",
+           "url": "https://media.acast.com/varvet/5e9d564e-48b8-42a1-9757-e4cc7795e0e5/media.mp3",
+           "checksum": "8fe12cce79a42e6937309c8f2bc41e0d"
+       },
+       {
+           "title": "#126: First Aid Kit",
+           "url": "https://media.acast.com/varvet/93d3836b-a09c-4bc3-9d77-966fdff8ffe1/media.mp3",
+           "checksum": "b8f859f6eee2ed29f1455e53766b7f87"
+       },
+       {
+           "title": "#125: Jens Lapidus",
+           "url": "https://media.acast.com/varvet/9da7111e-0021-432e-ae14-2b3a5444dfe7/media.mp3",
+           "checksum": "72ffda44f394a608f5e436c4338df7f4"
+       },
+       {
+           "title": "#124: Erik Videgård",
+           "url": "https://media.acast.com/varvet/ba0ea96c-9f39-4c38-96ea-5062926843ef/media.mp3",
+           "checksum": "d597fe7976a68f565707466ed55366b5"
+       },
+       {
+           "title": "#123: Martina Montelius",
+           "url": "https://media.acast.com/varvet/1ae57c6c-4e0b-4aef-90a6-d1762d6e714c/media.mp3",
+           "checksum": "b9561238a994547123cb529e6b5d68f7"
+       },
+       {
+           "title": "#122: Gustaf Norén",
+           "url": "https://media.acast.com/varvet/e17c1485-047d-4894-aedc-3200fe995c78/media.mp3",
+           "checksum": "920a6f0b9989b7d96ca30b28ca791104"
+       },
+       {
+           "title": "#121: Gudrun Schyman",
+           "url": "https://media.acast.com/varvet/116bc25f-dc65-4885-ab9e-aaad2355d15d/media.mp3",
+           "checksum": "871d589f1ae0c29371d0732ede1fc3b8"
+       },
+       {
+           "title": "#120: Jason 'Timbuktu' Diakité",
+           "url": "https://media.acast.com/varvet/120jasontimbuktudiakite/media.mp3",
+           "checksum": "a49e3e985e029fa47094a51802a8d296"
+       },
+       {
+           "title": "#119: Agneta Sjödin",
+           "url": "https://media.acast.com/varvet/119agnetasjodin/media.mp3",
+           "checksum": "5424b711e7a4c2a14dead08a1de65f43"
+       },
+       {
+           "title": "#118: Jonas Åkerlund",
+           "url": "https://media.acast.com/varvet/66e7322d-f7ba-489f-adff-08c4da30e4e7/media.mp3",
+           "checksum": "c03374f0d7b42d8f2795694d5f52652d"
+       },
+       {
+           "title": "#117: Moa Svan",
+           "url": "https://media.acast.com/varvet/117moasvan/media.mp3",
+           "checksum": "d4bbd4c896f75164d368ed5afd54eb85"
+       },
+       {
+           "title": "#116: Jan Gradvall",
+           "url": "https://media.acast.com/varvet/116jangradvall/media.mp3",
+           "checksum": "dbbce1c18247c9ea9ac1d369c0c28285"
+       },
+       {
+           "title": "#115: Fredrik Lindström",
+           "url": "https://media.acast.com/varvet/115fredriklindstrom/media.mp3",
+           "checksum": "dafc71e47ac8b847c6f24af7f399641a"
+       },
+       {
+           "title": "#114: Helena von Zweigbergk",
+           "url": "https://media.acast.com/varvet/114helenavonzweigbergk/media.mp3",
+           "checksum": "bc6171adda171397085e782a038687c3"
+       },
+       {
+           "title": "SPECIAL: Kristian & Martin Luuk",
+           "url": "https://media.acast.com/varvet/specialkristianmartinluuk/media.mp3",
+           "checksum": "8983e21bd5f23a17fb5572ff595cea2c"
+       },
+       {
+           "title": "#113: Christian Kjellvander",
+           "url": "https://media.acast.com/varvet/113christiankjellvander/media.mp3",
+           "checksum": "932c35c6502dee8e2349e77d16354443"
+       },
+       {
+           "title": "#112: Mini Andén",
+           "url": "https://media.acast.com/varvet/112minianden/media.mp3",
+           "checksum": "5733351c24c7bae0247069dec35fbec1"
+       },
+       {
+           "title": "#111: Markus Krunegård",
+           "url": "https://media.acast.com/varvet/111markuskrunegard/media.mp3",
+           "checksum": "0e66ec018be37de5e19bcba4fbc42cc9"
+       },
+       {
+           "title": "#110: Lisa Nilsson",
+           "url": "https://media.acast.com/varvet/110lisanilsson/media.mp3",
+           "checksum": "71cc5d7ebd560af75cc92fd2c0dbe283"
+       },
+       {
+           "title": "#109: Måns Möller",
+           "url": "https://media.acast.com/varvet/109mansmoller/media.mp3",
+           "checksum": "60441e6725d65cc68f304d08d25d874e"
+       },
+       {
+           "title": "#108: Eva Röse",
+           "url": "https://media.acast.com/varvet/108evarose/media.mp3",
+           "checksum": "d0e8c8f50af16266bbf5f6b5755ddd6c"
+       },
+       {
+           "title": "SPECIAL: Nina Persson – Animal Heart",
+           "url": "https://media.acast.com/varvet/556ff7c5-e068-4a0f-a606-ac37d572e94c/media.mp3",
+           "checksum": "a16ef8fb0c3d733dc47fd80d75d70518"
+       },
+       {
+           "title": "#107: Robin Paulsson",
+           "url": "https://media.acast.com/varvet/107robinpaulsson/media.mp3",
+           "checksum": "4d5cba39508ea217fe8663378b6d37ea"
+       },
+       {
+           "title": "#106: Malena Ernman",
+           "url": "https://media.acast.com/varvet/106malenaernman/media.mp3",
+           "checksum": "10a2e685103946c97ad72944211ff01c"
+       },
+       {
+           "title": "#105: Peter Jöback",
+           "url": "https://media.acast.com/varvet/105peterjoback/media.mp3",
+           "checksum": "e2c3a6ddb4711e99492ed19aec129c16"
+       },
+       {
+           "title": "#104: Sarah Dawn Finer",
+           "url": "https://media.acast.com/varvet/104sarahdawnfiner/media.mp3",
+           "checksum": "694aa3b54b626d6e29d456460ca35527"
+       },
+       {
+           "title": "#103: Vera Vitali",
+           "url": "https://media.acast.com/varvet/103veravitali/media.mp3",
+           "checksum": "f7983cec3a888343d71cc5f0152e1014"
+       },
+       {
+           "title": "#102: Lill Lindfors",
+           "url": "https://media.acast.com/varvet/102lilllindfors/media.mp3",
+           "checksum": "189753cf87866092e86a47600d5a8c7a"
+       },
+       {
+           "title": "#101: Alexander Bard",
+           "url": "https://media.acast.com/varvet/101alexanderbard/media.mp3",
+           "checksum": "33896d0c54faf5ebd89c59e670a2cc27"
+       },
+       {
+           "title": "#100: Fredrik Reinfeldt/Laleh",
+           "url": "https://media.acast.com/varvet/100fredrikreinfeldtlaleh/media.mp3",
+           "checksum": "c6ab81b774a8bf6bda2a688e3e6eccac"
+       },
+       {
+           "title": "#99: Maria Sveland",
+           "url": "https://media.acast.com/varvet/99mariasveland/media.mp3",
+           "checksum": "3595af141fe48c6bd5770ee1e5941b63"
+       },
+       {
+           "title": "#98: Mats Strandberg",
+           "url": "https://media.acast.com/varvet/98matsstrandberg/media.mp3",
+           "checksum": "dce2f5231b2bdf3357f1ccf69bf3c5b8"
+       },
+       {
+           "title": "#97: Carl Johan De Geer",
+           "url": "https://media.acast.com/varvet/97carljohandegeer/media.mp3",
+           "checksum": "9055f2a05cdc53d6307a10168c1fc8dd"
+       },
+       {
+           "title": "#96: Jill Johnson",
+           "url": "https://media.acast.com/varvet/96jilljohnson/media.mp3",
+           "checksum": "a6c84728356e866bdf0df0a17c172411"
+       },
+       {
+           "title": "#95: Micael Bindefeld",
+           "url": "https://media.acast.com/varvet/95micaelbindefeld/media.mp3",
+           "checksum": "5649d28c55d21a49a99c3c1caf746a46"
+       },
+       {
+           "title": "#94: Eric Gadd",
+           "url": "https://media.acast.com/varvet/94ericgadd/media.mp3",
+           "checksum": "2070f7ec4c29b744e6b49e5d6d55bb86"
+       },
+       {
+           "title": "#93: Jenny Wilson",
+           "url": "https://media.acast.com/varvet/93jennywilson/media.mp3",
+           "checksum": "042e100da0a41725c69ac55a6b1689b7"
+       },
+       {
+           "title": "#92: Steve Angello",
+           "url": "https://media.acast.com/varvet/92steveangello/media.mp3",
+           "checksum": "6f5e30c5d6fd198f32454b8fd80c74e3"
+       },
+       {
+           "title": "#91: Bea Uusma",
+           "url": "https://media.acast.com/varvet/91beauusma/media.mp3",
+           "checksum": "aa69e0f3e0e3449aa29e51fc35c45aab"
+       },
+       {
+           "title": "#90: Tomas Ledin",
+           "url": "https://media.acast.com/varvet/90tomasledin/media.mp3",
+           "checksum": "39dcd693eabc40ef4d57d5471c41316f"
+       },
+       {
+           "title": "#89: Lars Winnerbäck",
+           "url": "https://media.acast.com/varvet/89larswinnerback/media.mp3",
+           "checksum": "51f274385c6c2476160c7b4aa4dd3211"
+       },
+       {
+           "title": "#88: Nina Persson",
+           "url": "https://media.acast.com/varvet/88ninapersson/media.mp3",
+           "checksum": "72bc45447a5fc9a8a4f3bae0d5f578a0"
+       },
+       {
+           "title": "#87: Ebbot Lundberg",
+           "url": "https://media.acast.com/varvet/87ebbotlundberg/media.mp3",
+           "checksum": "9cbf71389a3417ee7b4f8ed33e31a3f0"
+       },
+       {
+           "title": "TAKSHOW #5",
+           "url": "https://media.acast.com/varvet/takshow5/media.mp3",
+           "checksum": "06c83e8d240ff18b27d659f7bd399137"
+       },
+       {
+           "title": "TAKSHOW #4",
+           "url": "https://media.acast.com/varvet/takshow4/media.mp3",
+           "checksum": "22c5cd6c9a22548a8470e4f47f90f1eb"
+       },
+       {
+           "title": "#86: Dominik Henzel",
+           "url": "https://media.acast.com/varvet/86dominikhenzel/media.mp3",
+           "checksum": "3765559b2cd38ed203f0913a9046a5f4"
+       },
+       {
+           "title": "TAKSHOW #3",
+           "url": "https://media.acast.com/varvet/takshow3/media.mp3",
+           "checksum": "f13d90b26e2f71b041e4aa942a156132"
+       },
+       {
+           "title": "#85: Melinda Kinnaman",
+           "url": "https://media.acast.com/varvet/85melindakinnaman/media.mp3",
+           "checksum": "eb1dd0c6cccab3a300bd3cb1c01601c5"
+       },
+       {
+           "title": "TAKSHOW #2",
+           "url": "https://media.acast.com/varvet/takshow2/media.mp3",
+           "checksum": "e8d8f2d583ebba49f36849c2a484cacf"
+       },
+       {
+           "title": "#84: Jonas Inde",
+           "url": "https://media.acast.com/varvet/84jonasinde/media.mp3",
+           "checksum": "79e7fbca3aa5691f7058eda4fd6d8d30"
+       },
+       {
+           "title": "TAKSHOW #1",
+           "url": "https://media.acast.com/varvet/takshow1/media.mp3",
+           "checksum": "a19e6c635853a3b3943ee7009984b452"
+       },
+       {
+           "title": "#83: Anna Mannheimer",
+           "url": "https://media.acast.com/varvet/83annamannheimer/media.mp3",
+           "checksum": "9a42eeb058d382ead2e05f613f039b03"
+       },
+       {
+           "title": "#82: Kaah",
+           "url": "https://media.acast.com/varvet/82kaah/media.mp3",
+           "checksum": "791ecd3099f2d304f4e125cdd38a789b"
+       },
+       {
+           "title": "#81: Ametist Azordegan",
+           "url": "https://media.acast.com/varvet/81ametistazordegan/media.mp3",
+           "checksum": "85ef5034df77a686a689c1c36fe4a883"
+       },
+       {
+           "title": "#80: Shima Niavarani",
+           "url": "https://media.acast.com/varvet/80shimaniavarani/media.mp3",
+           "checksum": "6eadcbfe925b0b6ec372d823d8f967f4"
+       },
+       {
+           "title": "#79: Peter Siepen",
+           "url": "https://media.acast.com/varvet/79petersiepen/media.mp3",
+           "checksum": "10dba0c247a5d94b06c7def91872b2ce"
+       },
+       {
+           "title": "#78: Nanna Johansson",
+           "url": "https://media.acast.com/varvet/78nannajohansson/media.mp3",
+           "checksum": "0a821378bc9f99f52ee83646419c23aa"
+       },
+       {
+           "title": "#77: Kim Sulocki",
+           "url": "https://media.acast.com/varvet/77kimsulocki/media.mp3",
+           "checksum": "cdb0950bc094a430b46fad1626070178"
+       },
+       {
+           "title": "#76: Erik Niva",
+           "url": "https://media.acast.com/varvet/76erikniva/media.mp3",
+           "checksum": "0831cf963108737d979606ad2c3da428"
+       },
+       {
+           "title": "#75: Bianca Kronlöf",
+           "url": "https://media.acast.com/varvet/75biancakronlof/media.mp3",
+           "checksum": "e9d460ead45bbbe2e6237d18067af70b"
+       },
+       {
+           "title": "#74: Thomas Öberg",
+           "url": "https://media.acast.com/varvet/00005a52-aa08-4239-a153-2d629dfd126c/media.mp3",
+           "checksum": "1a696067f42e46a03d2491cec5095f69"
+       },
+       {
+           "title": "#73: Magdalena Graaf",
+           "url": "https://media.acast.com/varvet/73magdalenagraaf/media.mp3",
+           "checksum": "48ae7dcd3bcc6404fffe7241e3f88f63"
+       },
+       {
+           "title": "#72: Ernst Kirchsteiger",
+           "url": "https://media.acast.com/varvet/72ernstkirchsteiger/media.mp3",
+           "checksum": "5dc785e20e8bb265a3b6ea207ce96c52"
+       },
+       {
+           "title": "#71: Britta Persson",
+           "url": "https://media.acast.com/varvet/71brittapersson/media.mp3",
+           "checksum": "99b7fbb2e0d8fed3a246050c8bf6af02"
+       },
+       {
+           "title": "#70: Erlend Loe",
+           "url": "https://media.acast.com/varvet/70erlendloe/media.mp3",
+           "checksum": "865476e1b1dc12234aff8bde73a5d688"
+       },
+       {
+           "title": "#69: Karin af Klintberg",
+           "url": "https://media.acast.com/varvet/69karinafklintberg/media.mp3",
+           "checksum": "ff32dcf12c86aa5fd78e8f86e6a4031d"
+       },
+       {
+           "title": "#68: Johan Croneman",
+           "url": "https://media.acast.com/varvet/68johancroneman/media.mp3",
+           "checksum": "7d03f0701fa5ebcd70ab4a9f77df5bb1"
+       },
+       {
+           "title": "#67: Peter Apelgren",
+           "url": "https://media.acast.com/varvet/67peterapelgren/media.mp3",
+           "checksum": "76fa2a8e183aa8a8283b662b836cd60b"
+       },
+       {
+           "title": "#66: Liv Strömquist",
+           "url": "https://media.acast.com/varvet/66livstromquist/media.mp3",
+           "checksum": "8e1ca8c3926451ce4a75ecd715441d8b"
+       },
+       {
+           "title": "#65: Oskar Linnros",
+           "url": "https://media.acast.com/varvet/65oskarlinnros/media.mp3",
+           "checksum": "b66f60d8980899923510dd60d0494b46"
+       },
+       {
+           "title": "#64: Katrin Zytomierska",
+           "url": "https://media.acast.com/varvet/64katrinzytomierska/media.mp3",
+           "checksum": "2a2c8501a105d853e1dcbb049e0ac70b"
+       },
+       {
+           "title": "#63: Kristian Gidlund",
+           "url": "https://media.acast.com/varvet/63kristiangidlund/media.mp3",
+           "checksum": "a1ce5017a6b1577485f3f46f82151a5e"
+       },
+       {
+           "title": "#62: Klara Zimmergren",
+           "url": "https://media.acast.com/varvet/62klarazimmergren/media.mp3",
+           "checksum": "13a79cc38560c3651409450c85532afa"
+       },
+       {
+           "title": "#61: Per Gessle",
+           "url": "https://media.acast.com/varvet/61pergessle/media.mp3",
+           "checksum": "f0ad39958f9ecbd284e58aedb675ba4c"
+       },
+       {
+           "title": "#60: Amanda Ooms",
+           "url": "https://media.acast.com/varvet/60amandaooms/media.mp3",
+           "checksum": "9a01cd7cf2523b2e0fc14662895a174f"
+       },
+       {
+           "title": "#59: Jesper Waldersten",
+           "url": "https://media.acast.com/varvet/59jesperwaldersten/media.mp3",
+           "checksum": "5a973b5bff3851d2fe52212a87325a7d"
+       },
+       {
+           "title": "#58: Isabel Adrian",
+           "url": "https://media.acast.com/varvet/58isabeladrian/media.mp3",
+           "checksum": "94a5f13bd11e75ce2a3282f04b914cee"
+       },
+       {
+           "title": "#57: Mauro Scocco",
+           "url": "https://media.acast.com/varvet/57mauroscocco/media.mp3",
+           "checksum": "86de2170336201ff99c7c3bc2383bcf9"
+       },
+       {
+           "title": "#56: Mårten Andersson",
+           "url": "https://media.acast.com/varvet/56martenandersson/media.mp3",
+           "checksum": "f879240316aba84440c514bd50c52291"
+       },
+       {
+           "title": "#55: Erika Wasserman",
+           "url": "https://media.acast.com/varvet/55erikawasserman/media.mp3",
+           "checksum": "38bee106f57d9b6c4a68b55cd2d68703"
+       },
+       {
+           "title": "#54: Peter Wahlbeck",
+           "url": "https://media.acast.com/varvet/54peterwahlbeck/media.mp3",
+           "checksum": "ada2b2591b613442e21dd7a0396501c1"
+       },
+       {
+           "title": "#53: Maria Montazami",
+           "url": "https://media.acast.com/varvet/53mariamontazami/media.mp3",
+           "checksum": "02ea7a1fdbb56474633cc4d5cc83116e"
+       },
+       {
+           "title": "#52: Martin Gelin",
+           "url": "https://media.acast.com/varvet/52martingelin/media.mp3",
+           "checksum": "eec3ee21247c747090e9e973f3589f67"
+       },
+       {
+           "title": "SPECIAL: Kristoffer Triumf",
+           "url": "https://media.acast.com/varvet/specialkristoffertriumf/media.mp3",
+           "checksum": "b87a5ef84cf7bf81654ef30d51aa2e35"
+       },
+       {
+           "title": "#51: Carin Rodebjer",
+           "url": "https://media.acast.com/varvet/51carinrodebjer/media.mp3",
+           "checksum": "668d62e4dc9abb0c8c470a0c980d8f3d"
+       },
+       {
+           "title": "#50: Johan Renck",
+           "url": "https://media.acast.com/varvet/50johanrenck/media.mp3",
+           "checksum": "6801fde89c1cfd59d3e9f82ee2db9a67"
+       },
+       {
+           "title": "#49: Bodil Malmsten",
+           "url": "https://media.acast.com/varvet/49bodilmalmsten/media.mp3",
+           "checksum": "9ece755e6e02951b6503868d506e52f3"
+       },
+       {
+           "title": "MUSIKHJÄLPEN-SPECIAL: Mathias Engdahl",
+           "url": "https://media.acast.com/varvet/d0de4b7f-5930-4271-8764-47f31e8a125d/media.mp3",
+           "checksum": "af03e3b442d7a5fb9853a0a2254ff944"
+       },
+       {
+           "title": "#48: Felix Herngren",
+           "url": "https://media.acast.com/varvet/48felixherngren/media.mp3",
+           "checksum": "af5a82dced64fedf04e6fd6f8980d64a"
+       },
+       {
+           "title": "#47: Natalia Kazmierska",
+           "url": "https://media.acast.com/varvet/47nataliakazmierska/media.mp3",
+           "checksum": "5222dd3a0934a099b0a5a592d4b103f3"
+       },
+       {
+           "title": "#46: Jonas Gardell",
+           "url": "https://media.acast.com/varvet/46jonasgardell/media.mp3",
+           "checksum": "a3f990d0529fa9e6fd33824b7047a1f7"
+       },
+       {
+           "title": "#45: Susanne Ljung",
+           "url": "https://media.acast.com/varvet/45susanneljung/media.mp3",
+           "checksum": "aec4d515c472c8962e8fdae0e439394c"
+       },
+       {
+           "title": "#44: Sissela Kyle",
+           "url": "https://media.acast.com/varvet/44sisselakyle/media.mp3",
+           "checksum": "58982ae8ecc3e1e0682f77196facd3af"
+       },
+       {
+           "title": "#43: Adam Alsing",
+           "url": "https://media.acast.com/varvet/43adamalsing/media.mp3",
+           "checksum": "be261a4b0c9ccf13dc13ae5e909eb8de"
+       },
+       {
+           "title": "#42: Lo Kauppi",
+           "url": "https://media.acast.com/varvet/42lokauppi/media.mp3",
+           "checksum": "4cdff66496f20cdcc0ed33f0e94cb148"
+       },
+       {
+           "title": "#41: Petter",
+           "url": "https://media.acast.com/varvet/41petter/media.mp3",
+           "checksum": "04d098c24001116ce70594b2528245d1"
+       },
+       {
+           "title": "#40: Özz Nûjen",
+           "url": "https://media.acast.com/varvet/a2f127cc-0120-45d5-b498-8a1f745c5d1d/media.mp3",
+           "checksum": "8506701dbd53fcbb1027994317e91ecd"
+       },
+       {
+           "title": "#39: Agnes-Lo Åkerlind",
+           "url": "https://media.acast.com/varvet/70d14e58-54f1-410b-a30b-e61816ebaca8/media.mp3",
+           "checksum": "08d74bc45e603e1ff11ec1b1a8eba18b"
+       },
+       {
+           "title": "#38: Niklas Strömstedt",
+           "url": "https://media.acast.com/varvet/38niklasstromstedt/media.mp3",
+           "checksum": "e3eeb47e1f402479a953c981bdb5c226"
+       },
+       {
+           "title": "#37: Jonas Hassen Khemiri",
+           "url": "https://media.acast.com/varvet/37jonashassenkhemiri/media.mp3",
+           "checksum": "8817070bd1dc95dd4c19601cc2f2690a"
+       },
+       {
+           "title": "#36: Carina Berg",
+           "url": "https://media.acast.com/varvet/36carinaberg/media.mp3",
+           "checksum": "e464a84f888a04d9c384d21b9882a2a0"
+       },
+       {
+           "title": "#35: Tomas Andersson Wij",
+           "url": "https://media.acast.com/varvet/35tomasanderssonwij/media.mp3",
+           "checksum": "b53fd25070728f136b0c547354eede2d"
+       },
+       {
+           "title": "#34: Babben Larsson",
+           "url": "https://media.acast.com/varvet/34babbenlarsson/media.mp3",
+           "checksum": "1b517c38fb70560fd9d6f14aac4cda53"
+       },
+       {
+           "title": "#33: Hanna Hellquist",
+           "url": "https://media.acast.com/varvet/33hannahellquist/media.mp3",
+           "checksum": "26ca5ceb264a6f08fee3709e31abf84d"
+       },
+       {
+           "title": "#32: Mona Sahlin",
+           "url": "https://media.acast.com/varvet/32monasahlin/media.mp3",
+           "checksum": "3adc7105386f55e9526907acec13a3f0"
+       },
+       {
+           "title": "#31: Johan Glans",
+           "url": "https://media.acast.com/varvet/31johanglans/media.mp3",
+           "checksum": "c0ce96f8e638ac9c370c4dd8157c9a64"
+       },
+       {
+           "title": "#30: Martin Kellerman",
+           "url": "https://media.acast.com/varvet/30martinkellerman/media.mp3",
+           "checksum": "5ca0db3abe3c8187cf3df26108d1110b"
+       },
+       {
+           "title": "#29: Nour El Refai",
+           "url": "https://media.acast.com/varvet/29nourelrefai/media.mp3",
+           "checksum": "9b9376eaab242fd82c8cf239e9f02602"
+       },
+       {
+           "title": "#28 Jessika Gedin",
+           "url": "https://media.acast.com/varvet/28jessikagedin/media.mp3",
+           "checksum": "7eccd555c71423edc313a2f19a4f6cbc"
+       },
+       {
+           "title": "#27: Pontus Gårdinger",
+           "url": "https://media.acast.com/varvet/27pontusgardinger/media.mp3",
+           "checksum": "39d4e071b4733cea13d5c617e2a9060d"
+       },
+       {
+           "title": "#26: Johan Rheborg",
+           "url": "https://media.acast.com/varvet/26johanrheborg/media.mp3",
+           "checksum": "9ec3257386515568c679399ed3813ea7"
+       },
+       {
+           "title": "#25: Sigge Eklund",
+           "url": "https://media.acast.com/varvet/25siggeeklund/media.mp3",
+           "checksum": "78a312d1742667f92711dba3df80ea4c"
+       },
+       {
+           "title": "#24: Kakan Hermansson",
+           "url": "https://media.acast.com/varvet/24kakanhermansson/media.mp3",
+           "checksum": "e364e10a1500c4bd6eeb50529ba24246"
+       },
+       {
+           "title": "#23: Henrik Rydström",
+           "url": "https://media.acast.com/varvet/23henrikrydstrom/media.mp3",
+           "checksum": "b39b1789dcd0a5d58a60cfaba97e6878"
+       },
+       {
+           "title": "#22: Petra Mede",
+           "url": "https://media.acast.com/varvet/22petramede/media.mp3",
+           "checksum": "b456970cd602d9f59667c01a0508c544"
+       },
+       {
+           "title": "#21: Kringlan Svensson",
+           "url": "https://media.acast.com/varvet/21kringlansvensson/media.mp3",
+           "checksum": "cdb2ffdee76c54b8243668943744be9c"
+       },
+       {
+           "title": "#20: Klas Åhlund",
+           "url": "https://media.acast.com/varvet/9721eae6-9ef5-4e68-bf43-8afab89989d2/media.mp3",
+           "checksum": "b856fca8cec8b49847b7622e187b9da7"
+       },
+       {
+           "title": "#19: Per Naroskin",
+           "url": "https://media.acast.com/varvet/19pernaroskin/media.mp3",
+           "checksum": "bb10bc15d16687c9952a94d136a09541"
+       },
+       {
+           "title": "#18: Lotta Lundgren",
+           "url": "https://media.acast.com/varvet/18lottalundgren/media.mp3",
+           "checksum": "665fdf8af0e936a5df6e56f66016f37f"
+       },
+       {
+           "title": "#17: Simon Gärdenfors",
+           "url": "https://media.acast.com/varvet/17simongardenfors/media.mp3",
+           "checksum": "9abce39007b3834477025d662d2a4aa8"
+       },
+       {
+           "title": "#16: Annika Lantz",
+           "url": "https://media.acast.com/varvet/16annikalantz/media.mp3",
+           "checksum": "d80d1ce1e29751d9d5dc0c61a526f824"
+       },
+       {
+           "title": "#15: Johanna Koljonen",
+           "url": "https://media.acast.com/varvet/15johannakoljonen/media.mp3",
+           "checksum": "7de707c61e662fac55e57795f7db9f0d"
+       },
+       {
+           "title": "#14: Jesper Rönndahl",
+           "url": "https://media.acast.com/varvet/14jesperronndahl/media.mp3",
+           "checksum": "f0552daba30e3a0bd2c9db3dbf6ebac1"
+       },
+       {
+           "title": "#13: Fredrik Wikingsson",
+           "url": "https://media.acast.com/varvet/13fredrikwikingsson/media.mp3",
+           "checksum": "47d784abd2e46b850c78fcac9717218d"
+       },
+       {
+           "title": "#12: Peter Magnusson",
+           "url": "https://media.acast.com/varvet/12petermagnusson/media.mp3",
+           "checksum": "92b1426e6ac1d343f3f1a8ea1b2fdcb0"
+       },
+       {
+           "title": "SPECIAL: Marc Maron",
+           "url": "https://media.acast.com/varvet/specialmarcmaron/media.mp3",
+           "checksum": "3c54a196af50786c2530be94437c40cc"
+       },
+       {
+           "title": "#11: Sissela Benn",
+           "url": "https://media.acast.com/varvet/11sisselabenn/media.mp3",
+           "checksum": "e9626b49199def07d643f092cd458a4f"
+       },
+       {
+           "title": "#10: Sara Bergmark Elfgren",
+           "url": "https://media.acast.com/varvet/10sarabergmarkelfgren/media.mp3",
+           "checksum": "4d41ff04c7a48f9055cf1d84a5899040"
+       },
+       {
+           "title": "#9: Henrik Schyffert",
+           "url": "https://media.acast.com/varvet/9henrikschyffert/media.mp3",
+           "checksum": "eb158d39137666c195b4d0f8a968f6e3"
+       },
+       {
+           "title": "#8: Filip Hammar",
+           "url": "https://media.acast.com/varvet/8filiphammar/media.mp3",
+           "checksum": "a45a71cd936848ede5f9871760ca326e"
+       },
+       {
+           "title": "#7: Lina Thomsgård",
+           "url": "https://media.acast.com/varvet/7linathomsgard/media.mp3",
+           "checksum": "063a18af991ba56599bb34c8331f3dbd"
+       },
+       {
+           "title": "#6: Magnus Betnér",
+           "url": "https://media.acast.com/varvet/6magnusbetner/media.mp3",
+           "checksum": "49b4867773df75cc8a47b94da61f04ea"
+       },
+       {
+           "title": "#5: Margret Atladottir",
+           "url": "https://media.acast.com/varvet/5margretatladottir/media.mp3",
+           "checksum": "12f81151216ecb6ccd6d5f24868ed645"
+       },
+       {
+           "title": "#4: David Batra",
+           "url": "https://media.acast.com/varvet/4davidbatra/media.mp3",
+           "checksum": "a018b4d9c143c1c9657355d8bd7073f6"
+       },
+       {
+           "title": "#3: Alex Schulman",
+           "url": "https://media.acast.com/varvet/3alexschulman/media.mp3",
+           "checksum": "7039382221e10ce5a481c441441bfbd0"
+       },
+       {
+           "title": "#2: Kristoffer Appelquist",
+           "url": "https://media.acast.com/varvet/2kristofferappelquist/media.mp3",
+           "checksum": "4663504086cd9e1a607708fe2711d4c2"
+       },
+       {
+           "title": "#1: Soran Ismail",
+           "url": "https://media.acast.com/varvet/1soranismail/media.mp3",
+           "checksum": "b8e2e857117c6a79a76030c320904235"
+       }
+   ]
+}

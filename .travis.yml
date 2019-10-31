@@ -11,7 +11,7 @@ before_install:
 - docker run --name redis -d redis
 script:
 - docker build --target tester . -t "podcast:test-$TRAVIS_COMMIT"
-- docker run  --link redis -e PODCAST_REDIS_HOST=redis -ti "podcast:test-$TRAVIS_COMMIT" npm run 'e2e:test'
+- docker run  --link redis -e PODCAST_REDIS_HOST=redis -ti "podcast:test-$TRAVIS_COMMIT" npm run 'test:e2e'
 - docker build --target prod . -t "podcast:$TRAVIS_COMMIT"
 before_deploy:
 - docker tag "podcast:$TRAVIS_COMMIT" "samao/podcast:$TRAVIS_COMMIT"

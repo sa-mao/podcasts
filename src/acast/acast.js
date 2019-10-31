@@ -47,7 +47,7 @@ export function buildGetPodcastCommand (url) {
     url: url
   }
 }
-// TODO: it should return a valid Podcast.
+
 export async function handleAcastResponse (response) {
   const [result] = await Promise.all([response])
 

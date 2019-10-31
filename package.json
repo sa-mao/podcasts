@@ -9,16 +9,16 @@
     "now-build": "npm run build",
     "clean": "rimraf dist",
     "dev": "nodemon --exec babel-node ./src/index.js",
-    "test": "jest --watch src --verbose",
+    "test": "jest src",
     "start": "node dist/index.js",
-    "test:e2e": "jest ./__test__ --runInBand"
+    "test:e2e": "jest ./__test__"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sa-mao/podcasts.git"
   },
   "keywords": [
-    "Podcasts",
+    "podcasts",
     "API",
     "REST"
   ],
@@ -29,7 +29,14 @@
   },
   "homepage": "https://github.com/sa-mao/podcasts#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^0.19.0",
+    "camelcase": "^5.3.1",
+    "express": "^4.17.1",
+    "js-yaml": "^3.13.1",
+    "morgan": "^1.9.1",
+    "ramda": "^0.26.1",
+    "redis": "^2.8.0",
+    "uuid": "^3.3.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
@@ -43,6 +50,7 @@
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
+    "faker": "^4.1.0",
     "jest": "^24.9.0",
     "nodemon": "^1.19.4",
     "rimraf": "^3.0.0"

@@ -1,0 +1,13 @@
+version: '3'
+services:
+  podcast:
+    build: .
+    ports:
+    - "8080:8080"
+    links:
+    - redis
+    environment:
+      PODCAST_REDIS_HOST: redis
+  redis:
+    image: redis
+

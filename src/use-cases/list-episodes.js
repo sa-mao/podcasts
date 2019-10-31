@@ -1,4 +1,18 @@
+/**
+ * makes list episodes use case
+ *
+ * @export
+ * @param {*} { cache } cache client
+ * @returns {function} a listEpisodes function.
+ */
 export default function makeListEpisodes ({ cache }) {
+  /**
+  * List podcast's episodes.
+  *
+  * @export
+  * @param {id} podcastId, a podcast url
+  * @returns {array} of episodes
+  */
   return async function listEpisodes ({ podcastId } = {}) {
     if (!podcastId) {
       throw new Error('podcast Id is required.')

@@ -1,15 +1,20 @@
 dist: trusty
 services:
 - docker
+env:
+  global:
+  - secure: ruhMT19eIhqIkPWoUClw5+u9QUeBMgiXybz/OARwIkKdEchbX0oIsi27slGyBfn4TvJOWsEjmSiZZmpfFSe9DrY3Gr8EnPJyd6T0fL9fGXCTDHYuqAA6wp3R0bVtnk8MI61pNqWgfS4KT5i2qFwtqIaIppQu3EcPYZEoOKB92WN9XegTJoW02oRH6sDnUXFLUJqtVwo/04AgHjki36aiQbU1pwNDNXZZFOjyL4DOTE5CuJtbIzI+VVkAR5NOIOgfq6PEcVUtlnZ2f+FrI3wYPI0Pjr+5XBjPGRQIkd82LCjocOMfsHcdf3CxUEBdedvrjX1j8Hnp8v7AQFCOW4G9eo7YzkhaSjKm+VN5+YWdc3m111XoC3B84KVnTv3cdLpO9WCP6c8do+iYZSwH6R1hIJ41OK+2YfJ05aY3Ar73BQ/tSHOvPwgZvxB1ac31wcAm5+HvjEFL2GWWlOhWMkNsIyzvqiOoZElPgA1zwI2wSsQUyU/+feXcFwIG/Y9gwIrlq0V3iNODGx4JB5gASouFZdDarfBdn5TcRxJUbg10oQnWn765gtHSb30tB6oADcnqBFL+n6ZuOuupXHPzD+iTAuWtGYQDzIi06xkMs63TpkD8i4JVznsQ7o9HPFLdQLd7PN7WV1Nh8WV0BH/SVLk0hjCXNC/lyIUC5iXUqDqlVGU=
+  - secure: pImr/mBO7bcmkdH0OmYobImh2rHSSt4WBUboOwo0pmEOet90C8CESPcLABu1kJjC2u4Ha3eHGRS9lidLYG/+fLN20ViRdfVGho/LqhfrbicRkI0tUW1zwv5vB1/KG11hZpU3jaoEson+Ts6N4XsODsZ6KRcnMEqK5/NTyyaczncJH9BZIOyEzbrk29Pa2RKnVNUYsztERUOJewrBlgSwBCd3iVeLo62mqi/sW8PTHoC+eu/yz/55pdlzQ9pG9a9VbhIi3N5SJcnxZnToSPC9h++uUjnzAZdB0Quciv2RIWqQ16bNmefB0oG+X8+tPFaPVSyjT6HZAnnz4sTGVZxqPFJfP71B+1KGk3Er9wNgVs7NFsxjrDVsY3J+SJnNmEOLQZAa8U/UiJ3J9MRHb9lRt50OGjiuHtlq7yArXkXWA3kyBgPdCKZ9uj742mhDNuIKVeaZYKkJdmzLZEq5nTJmcTNVpjxfofDF5Z15qLQx4mqGDFYQWDoFzEa+gou4yXbgMNko3MgwYIeYmvZ3pUC0rn/I6+erqoUl5kqZhIfWiL7ADkWO2QKFobvz48tGifGvWIC5kXMC09T/SGZCfk/Lt1YAlewWaREFNbYSsBAzRZWYgP/qxkCnCK1wac0Iiz2K8gNj87W2xw11TdYmPJKx0eWUBtU2pImHO90jxCM1vhI=
 
-jobs:
-  include:
-    - stage: lint dev build 
-      script:
-      - docker build --target builder .
-    - stage: unit tests
-      script:
-      - docker build --target tester .
-    - stage: prod build
-      script:
-      - docker build --target prod . -t "podcast:$TRAVIS_COMMIT"
+before_install:
+- echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+- docker run --name redis -d redis
+script:
+- docker build --target tester . -t "podcast:test-$TRAVIS_COMMIT"
+- docker run  --link redis -e PODCAST_REDIS_HOST=redis -ti "podcast:test-$TRAVIS_COMMIT" npm run 'e2e:test'
+- docker build --target prod . -t "podcast:$TRAVIS_COMMIT"
+before_deploy:
+- docker tag "podcast:$TRAVIS_COMMIT" "samao/podcast:$TRAVIS_COMMIT"
+- docker tag "podcast:$TRAVIS_COMMIT" "samao/podcast:latest"
+- docker push "samao/podcast:latest"
+- docker push "samao/podcast:$TRAVIS_COMMIT"

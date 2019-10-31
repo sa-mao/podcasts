@@ -1,8 +1,7 @@
+//import conf from '../src/conf'
 import acast from '../src/acast'
-import varvetPodcast from './data/acast/varvet-podcast.json'
-const dummy = {
-  'dqdq': 3
-}
+import varvetPodcast from './data/acast/varvet.json'
+
 describe('Acast', () => {
   it('returns null when podcast is not found', async () => {
     const nonExisitingPodcastUrl = 'https://rss.acast.com/varve'
@@ -10,9 +9,10 @@ describe('Acast', () => {
     expect(result).toBeNull()
   })
 
-  xit('returns a podcast entity', async () => {
-    const exisitingPodcastUrl = 'https://rss.acast.com/varvet'
-    const result = await acast.get(exisitingPodcastUrl)
-    expect(result).toMatchObject(varvetPodcast)
+  it('returns a podcast entity', async () => {
+    jest.setTimeout(40000)
+    const existingPodcastUrl = 'https://rss.acast.com/varvet'
+    const result = await acast.get(existingPodcastUrl)
+    expect(result.toJson()).toMatchObject(varvetPodcast)
   })
 })

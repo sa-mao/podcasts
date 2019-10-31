@@ -24,5 +24,5 @@ COPY --from=builder /app/dist /app/dist
 COPY --from=builder /app/conf /app/conf
 RUN npm install --production
 
-# USER node
+USER node
 CMD ["npm", "run",  "start"]

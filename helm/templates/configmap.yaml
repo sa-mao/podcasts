@@ -1,0 +1,17 @@
+{{- if .Values.environment.enabled -}}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ include "podcasts.fullname" . }}
+  labels:
+    app.kubernetes.io/name: {{ include "podcasts.name" . }}
+    helm.sh/chart: {{ include "podcasts.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+data:
+  {{- range $key, $val := .Values.environment.vars }}
+  {{ $key }}: {{ $val | quote }}
+  {{- end}}
+{{- end }}
+
+
